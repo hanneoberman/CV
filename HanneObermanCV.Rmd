@@ -2,8 +2,8 @@
 name: Hanne 
 surname: Oberman
 position: "Statistician interested in metascience, open science, and interdisciplinarity"
-address: ... # Padualaan 14, 3584 CH Utrecht
-# phone: 
+address: "." #Padualaan 14, 3584 CH Utrecht
+# phone: "." 
 www: hanneoberman.github.io
 email: "h.i.oberman@uu.nl"
 twitter: hioberman
@@ -13,6 +13,7 @@ date: "`r format(Sys.time(), '%B %Y')`"
 output: vitae::awesomecv
 profilepic: "avatar.jpg"
 headcolor: 414141 #FFCD00
+#docname: HanneObermanCV
 ---
 
 ```{r setup, include=FALSE}
@@ -58,8 +59,8 @@ tribble(
   ~Year, ~Job, ~Desc, ~Where,
   "since 2020", "Junior researcher", "Data visualization for uncertainty/missing data. With Dr. Gerko Vink and Prof. Dr. Stef van Buuren.", "Utrecht University",
   "since 2019", "Research assistant", "Developing novel methods to improve the validity of social scientific prediction. With Dr. Dong Nguyen and Dr. Daniel Oberski.", "Utrecht University",
-  "since 2017", "Teaching assistant", "Teaching Methodology and Statistics and Experimental Psychology courses at all undergraduate levels. Task varying from practical supervision to lecturing, and from leading workgroups to grading assignments.", "Utrecht University",
-  "2012-2017", "Hospitality and food sector jobs", "As a student, I have always worked part-time in restaurants and at a sustainable food start-up. Tasks include supervision of a team of 5-10 collegues, customer service, and account management.", "E.g., Dudok Rotterdam",
+  "since 2017", "Teaching assistant", "Teaching Methodology and Statistics and Experimental Psychology courses at all undergraduate levels. Tasks varied from practical supervision to lecturing, and from leading workgroups to grading assignments.", "Utrecht University",
+  "2012-2017", "Hospitality, food sector, and volunteering", "As a student, I have always worked part-time in restaurants and at a sustainable food start-up. As volunteer I have worked at an animal shelter and several (cultural) festivals. Tasks include supervision of a team of 5-10 collegues, customer service, and account management.", "E.g., Dudok Rotterdam",
 ) %>%
   detailed_entries(
     Desc,
