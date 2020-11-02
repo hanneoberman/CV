@@ -13,6 +13,7 @@ date: "`r format(Sys.time(), '%B %Y')`"
 output: vitae::awesomecv
 profilepic: "avatar.jpg"
 headcolor: 414141 #FFCD00
+aboutme: "I am very passionate about 'dull' or 'difficult' topics like statistics, programming, and philosophy of science. I'm motivated to use my enthusiasm and expertise to improve the quality of academic research and education. I aspire to (help others to) solve complex real-world problems that require insights from many disciplines and methodologies."
 #docname: HanneObermanCV
 ---
 
@@ -21,11 +22,13 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 library(vitae)
 ```
 
-# About me
+<!-- # About me -->
 
- * I am very passionate about 'dull' or 'difficult' topics like statistics, programming, and philosophy of science.
- * I want to bring insights from different disciplines and methodologies together to solve complex real-world problems.
- * I am motivated to improve the quality of academic research *and* education. 
+<!--  * I am very passionate about 'dull' or 'difficult' topics like statistics, programming, and philosophy of science. -->
+<!--  * I want to bring insights from different disciplines and methodologies together to solve complex real-world problems. -->
+<!--  * I am motivated to .   -->
+
+
 
 # Education
 
@@ -33,7 +36,7 @@ library(vitae)
 library(tibble)
 tribble(
   ~ Degree, ~ Year, ~ Institution, ~ Where,
-  "Graduated cum laude. Elective courses in Philosophy of Science.", "2018-2020", "MSc Methodology and Statistics for the Behavioural, Biomedical and Social Sciences", "Utrecht University",
+  "Graduated cum laude. Electives in Philosophy of Science.", "2018-2020", "MSc Methodology and Statistics for the Behavioural, Biomedical and Social Sciences", "Utrecht University",
   "Global Academy of Liberal Arts interdisciplinary conference and summer school.", "2018", "Graduate Summer School", "Concordia University, Montreal",
   "Interdisciplinary honours program Descartes College.", "2016-2018", "Honours Degree", "Utrecht University",
   "Graduated cum laude. Major in Cognitive Neurobiological Psychology. Minor in Governance for Sustainable Development, and Methods and Statistics in
@@ -57,10 +60,10 @@ the Social and Behavioral Science.", "2014-2018", "BSc Liberal Arts and Sciences
 #   )
 tribble(
   ~Year, ~Job, ~Desc, ~Where,
-  "since 2020", "Junior researcher", "Data visualization for uncertainty/missing data. With Dr. Gerko Vink and Prof. Dr. Stef van Buuren.", "Utrecht University",
-  "since 2019", "Research assistant", "Developing novel methods to improve the validity of social scientific prediction. With Dr. Dong Nguyen and Dr. Daniel Oberski.", "Utrecht University",
+  "since 2020", "Junior researcher", "Data visualization for uncertainty/missing data. With Dr. Gerko Vink and Prof. Dr. Stef van Buuren. My task is to develop an interactive evaluation device for multiple imputation of missing data. I am proficient with the `R` package `{shiny}` and the `{golem}` framework for production-grade applications.", "Utrecht University",
+  "since 2019", "Research assistant", "Developing novel methods to improve the validity of social scientific prediction. With Dr. Dong Nguyen and Dr. Daniel Oberski. My task was to develop a reproducible pipelne for natural language processing with `R` and `Python`. I mostly focussed on the prerequisites for 'pre-registration' of these kinds of analyses.", "Utrecht University",
   "since 2017", "Teaching assistant", "Teaching Methodology and Statistics and Experimental Psychology courses at all undergraduate levels. Tasks varied from practical supervision to lecturing, and from leading workgroups to grading assignments.", "Utrecht University",
-  "2012-2017", "Hospitality, food sector, and volunteering", "As a student, I have always worked part-time in restaurants and at a sustainable food start-up. As volunteer I have worked at an animal shelter and several (cultural) festivals. Tasks include supervision of a team of 5-10 collegues, customer service, and account management.", "E.g., Dudok Rotterdam",
+  "2012-2017", "Hospitality, food sector, and volunteering", "As a student, I have always worked part-time in restaurants and at a sustainable food start-up. Next to that, I have volunteered at an animal shelter and several (cultural) festivals. Tasks include supervision of a team of 5-10 collegues, customer service, and account management.", "E.g., Dudok Rotterdam",
 ) %>%
   detailed_entries(
     Desc,
@@ -108,10 +111,11 @@ tribble(
 ```{r}
 tribble(
   ~Year, ~Job, ~Desc, ~Where,
-  "", "Pre-study poster presentation", "Society for the Improvement of Psychological Science (SIPS) conference. Title: 'ShinyMICE: Developing a Missing Data Evaluation Suite (Master's Thesis Methodology and Statistics)'", "SIPS 2019",
+ "", "Online paper presentation", "International Conference on Machine Learning (ICML) workshop 'ARTEMISS: The Art of Learning with Missing Values'. Title: 'Missing the Point: Non-Convergence in Iterative Imputation Algorithms'.", "ICML 2020",
+ "", "Pre-study poster presentation", "Society for the Improvement of Psychological Science (SIPS) conference. Title: 'ShinyMICE: Developing a Missing Data Evaluation Suite (Master's Thesis Methodology and Statistics)'.", "SIPS 2019",
   "", "Showcase", "Global Academy of Liberal Arts (GALA) Annual Conference. Title 'Creativity and the Liberal Arts'.", "GALA 2018",
   "", "Invited talk", "European Liberal Education Student Conference (LESC). Title: 'Creating Creativity? Assessing adaptive expertise in Liberal Education students'.", "LESC 2017",
-  "", "Poster presentation", "Utrecht Platform for Creativity in Education (UPCE) conference. Title: 'Assessing Adaptive Expertise in Higher Education Students'", "UPCE 2016",
+  "", "Poster presentation", "Utrecht Platform for Creativity in Education (UPCE) conference. Title: 'Assessing Adaptive Expertise in Higher Education Students'.", "UPCE 2016",
   "", "Workshop", "National Interdisciplinary Education (NIE) Conference. Title: 'The interdisciplinary research process in practice'.", "NIE 2016",
   
 ) %>%
@@ -123,7 +127,7 @@ tribble(
   )
 ```
 
-# Publications
+<!-- # Publications -->
 
 ```{r}
 # library(dplyr)
