@@ -11,7 +11,7 @@ github: hanneoberman
 linkedin: hanneoberman
 date: "`r format(Sys.time(), '%B %Y')`"
 output: vitae::awesomecv
-profilepic: "avatar.jpg"
+profilepic: "img/avatar.png"
 headcolor: 414141 #FFCD00
 aboutme: "I am very passionate about 'dull' or 'difficult' topics like statistics, programming, and philosophy of science. I'm motivated to use my enthusiasm and expertise to improve the quality of academic research and education. I aspire to (help others to) solve complex real-world problems that require insights from many disciplines and methodologies."
 #docname: HanneObermanCV
@@ -60,7 +60,7 @@ the Social and Behavioral Science.", "2014-2018", "BSc Liberal Arts and Sciences
 #   )
 tribble(
   ~Year, ~Job, ~Desc, ~Where,
-  "since 2020", "Junior researcher", "Data visualization for uncertainty/missing data. With Dr. Gerko Vink and Prof. Dr. Stef van Buuren. My task is to develop an interactive evaluation device for multiple imputation of missing data. I am proficient with the `R` package `{shiny}` and the `{golem}` framework for production-grade applications.", "Utrecht University",
+  "since 2020", "Lecturer and research associate", "Teaching (under)graduate courses in statistics and data science. Researching missing data imputation and visualization. With Dr. Gerko Vink and Prof. Dr. Stef van Buuren. My aim is to develop interactive evaluation tools for incomplete data. I am proficient with the `R` package `{shiny}` and the `{golem}` framework for production-grade applications.", "Utrecht University",
   "since 2019", "Research assistant", "Developing novel methods to improve the validity of social scientific prediction. With Dr. Dong Nguyen and Dr. Daniel Oberski. My task was to develop a reproducible pipelne for natural language processing with `R` and `Python`. I mostly focussed on the prerequisites for 'pre-registration' of these kinds of analyses.", "Utrecht University",
   "since 2017", "Teaching assistant", "Teaching Methodology and Statistics and Experimental Psychology courses at all undergraduate levels. Tasks varied from practical supervision to lecturing, and from leading workgroups to grading assignments.", "Utrecht University",
   "2012-2017", "Hospitality, food sector, and volunteering", "As a student, I have always worked part-time in restaurants and at a sustainable food start-up. Next to that, I have volunteered at an animal shelter and several (cultural) festivals. Tasks include supervision of a team of 5-10 collegues, customer service, and account management.", "E.g., Dudok Rotterdam",
