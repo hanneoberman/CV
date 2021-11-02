@@ -60,9 +60,9 @@ the Social and Behavioral Science.", "2014-2018", "BSc Liberal Arts and Sciences
 #   )
 tribble(
   ~Year, ~Job, ~Desc, ~Where,
-  "since 2020", "Lecturer and research associate", "Teaching (under)graduate courses in statistics and data science. Researching missing data imputation and visualization. With Dr. Gerko Vink and Prof. Dr. Stef van Buuren. My aim is to develop interactive evaluation tools for incomplete data. I am proficient with the `R` package `{shiny}` and the `{golem}` framework for production-grade applications.", "Utrecht University",
-  "since 2019", "Research assistant", "Developing novel methods to improve the validity of social scientific prediction. With Dr. Dong Nguyen and Dr. Daniel Oberski. My task was to develop a reproducible pipelne for natural language processing with `R` and `Python`. I mostly focussed on the prerequisites for 'pre-registration' of these kinds of analyses.", "Utrecht University",
-  "since 2017", "Teaching assistant", "Teaching Methodology and Statistics and Experimental Psychology courses at all undergraduate levels. Tasks varied from practical supervision to lecturing, and from leading workgroups to grading assignments.", "Utrecht University",
+  "since 2020", "Lecturer and research associate", "Teaching (under)graduate courses in statistics and data science. Researching missing data imputation and visualization. With Dr. Gerko Vink and Prof. Dr. Stef van Buuren. My aim is to develop interactive evaluation tools for incomplete data.", "Utrecht University",
+  "2019-2020", "Research assistant", "Developing novel methods to improve the validity of social scientific prediction. With Dr. Dong Nguyen and Dr. Daniel Oberski. My task was to develop a reproducible pipelne for natural language processing with `R` and `Python`. I mostly focussed on the prerequisites for 'pre-registration' of these kinds of analyses.", "Utrecht University",
+  "2017-2020", "Teaching assistant", "Teaching Methodology and Statistics and Experimental Psychology courses at all undergraduate levels. Tasks varied from practical supervision to lecturing, and from leading workgroups to grading assignments.", "Utrecht University",
   "2012-2017", "Hospitality, food sector, and volunteering", "As a student, I have always worked part-time in restaurants and at a sustainable food start-up. Next to that, I have volunteered at an animal shelter and several (cultural) festivals. Tasks include supervision of a team of 5-10 collegues, customer service, and account management.", "E.g., Dudok Rotterdam",
 ) %>%
   detailed_entries(
@@ -111,13 +111,37 @@ tribble(
 ```{r}
 tribble(
   ~Year, ~Job, ~Desc, ~Where,
- "", "Online paper presentation", "International Conference on Machine Learning (ICML) workshop 'ARTEMISS: The Art of Learning with Missing Values'. Title: 'Missing the Point: Non-Convergence in Iterative Imputation Algorithms'.", "ICML 2020",
- "", "Pre-study poster presentation", "Society for the Improvement of Psychological Science (SIPS) conference. Title: 'ShinyMICE: Developing a Missing Data Evaluation Suite (Master's Thesis Methodology and Statistics)'.", "SIPS 2019",
-  "", "Showcase", "Global Academy of Liberal Arts (GALA) Annual Conference. Title 'Creativity and the Liberal Arts'.", "GALA 2018",
-  "", "Invited talk", "European Liberal Education Student Conference (LESC). Title: 'Creating Creativity? Assessing adaptive expertise in Liberal Education students'.", "LESC 2017",
-  "", "Poster presentation", "Utrecht Platform for Creativity in Education (UPCE) conference. Title: 'Assessing Adaptive Expertise in Higher Education Students'.", "UPCE 2016",
-  "", "Workshop", "National Interdisciplinary Education (NIE) Conference. Title: 'The interdisciplinary research process in practice'.", "NIE 2016",
-  
+"",
+  "Late-breaking work in progress",
+  "IEEE VIS workshop 'VisComm: Visualization for Communication'. Title: 'Visualizing Uncertainty Due to Missing Data'.",
+  "VIS 2021",
+"",
+  "Community led session",
+  "Open Science Festival. Title: 'Pre-registration of Data Science Studies'.",
+  "OSF 2021",
+"",
+  "Online paper presentation",
+  "International Conference on Machine Learning (ICML) workshop 'ARTEMISS: The Art of Learning with Missing Values'. Title: 'Missing the Point: Non-Convergence in Iterative Imputation Algorithms'.",
+  "ICML 2020",
+"",
+  "Pre-study poster presentation",
+  "Society for the Improvement of Psychological Science (SIPS) conference. Title: 'ShinyMICE: Developing a Missing Data Evaluation Suite (Master's Thesis Methodology and Statistics)'.",
+  "SIPS 2019",
+"",
+  "Showcase",
+  "Global Academy of Liberal Arts (GALA) Annual Conference. Title 'Creativity and the Liberal Arts'.", "GALA 2018",
+"",
+  "Invited talk",
+  "European Liberal Education Student Conference (LESC). Title: 'Creating Creativity? Assessing adaptive expertise in Liberal Education students'.",
+  "LESC 2017",
+  "",
+  "Poster presentation",
+  "Utrecht Platform for Creativity in Education (UPCE) conference. Title: 'Assessing Adaptive Expertise in Higher Education Students'.",
+  "UPCE 2016",
+"",
+  "Workshop",
+  "National Interdisciplinary Education (NIE) Conference. Title: 'The interdisciplinary research process in practice'.",
+  "NIE 2016",
 ) %>%
   detailed_entries(
     Desc,
