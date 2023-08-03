@@ -1,0 +1,57 @@
+---
+title: "Hanne Oberman"
+subtitle: "Statistician, interdisciplinarian, open scientist"
+author: ""
+title-block-banner: false
+format: 
+  html: 
+    page-layout: article
+  pdf: default
+theme: 
+  - lux
+  - lux.scss
+css: styles.css
+---
+
+<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/brands.min.css"> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<a href="mailto:h.i.oberman@uu.nl" class="fa fa-envelope"></a>
+<a href="http://hanneoberman.github.io/" class="fa fa-home"></a>
+<a href="https://orcid.org/0000-0003-3276-2141" class="fa-brands fa-orcid"></a>
+<a href="http://github.com/hanneoberman/" class="fa fa-github"></a>
+<a href="https://www.linkedin.com/in/hanneoberman/" class="fa fa-linkedin"></a>
+<a href="https://mastodon.social/@oberman" class="fa fa-mastodon"></a>
+<a href="https://twitter.com/hioberman" class="fa fa-twitter"></a>
+
+---
+
+I am very passionate about 'dull' or 'difficult' topics such as statistics, programming, and philosophy of science. I'm motivated to use my enthusiasm and expertise to improve the quality of academic research and education. I aspire to (help others to) solve complex real-world problems that require insights from many disciplines and methodologies.
+
+## Experience
+
+2023-current \| **PhD candidate [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics)** \| Utrecht University \| Utrecht, The Netherlands
+
+2022-current \| Faculty ambassador [Open Science Community Utrecht](https://openscience-utrecht.com/) \| Utrecht University \| Utrecht, The Netherlands 
+
+2020-2022 \| Research and education officer [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) \| Utrecht University \| Utrecht, The Netherlands 
+
+2020-2022 \| Research assistant [Julius Center for Health Sciences and Primary Care](https://juliuscentrum.umcutrecht.nl/en/) \| University Medical Center Utrecht \| Utrecht, The Netherlands
+
+## Education
+
+2023-current \| IOPS graduate school
+
+2018-2020 \| **MSc in [Methodology and Statistics for the Behavioural, Biomedical and Social Sciences](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences)** \| Utrecht University \| Utrecht, The Netherlands
+
+2018 \| **Post-graduate education [International Graduate Summer School of the Global Academy of Liberal Arts](https://www.concordia.ca/summer/artsci/Previous-Summer-Schools/2018/GALA2018.html)** \| Concordia University, Montreal, Canada
+
+2016-2018 \| **Honours degree [Descartes College](https://students.uu.nl/en/academics/honours/programmes/descartes-college)** \| Utrecht University \| Utrecht, The Netherlands
+
+2014-2018 \| **BSc in [Liberal Arts and Sciences](https://www.uu.nl/bachelors/liberal-arts-and-sciences)** \| Utrecht University \| Utrecht, The Netherlands
+
+<!-- date: last-modified -->
+<!-- date-format: "DD-MM-YYYY" -->
+<!-- last-modified: -->
+<!-- title-block-banner-color: white; -->
+
