@@ -3,7 +3,7 @@ title: Hanne Oberman
 subtitle: Statistician, interdisciplinarian, open scientist
 ---
 
-{{< include banner.html >}}
+{{< include links.html >}}
 
 ---
 

@@ -14,7 +14,7 @@ format:
     include-in-header: 
     - text: \usepackage{fontawesome5}
     include-before-body: 
-    - file: includes.tex
+    - file: links.tex
 theme: 
   - lux
   - lux.scss
