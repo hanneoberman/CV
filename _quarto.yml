@@ -1,0 +1,21 @@
+project:
+  output-dir: CV
+
+title: Hanne Oberman
+toc: false
+number-sections: false
+# bibliography: references.bib  
+  
+format: 
+  html: 
+    page-layout: article
+  pdf:
+    keep_tex: true
+    include-in-header: 
+    - text: \usepackage{fontawesome5}
+    include-before-body: 
+    - file: includes.tex
+theme: 
+  - lux
+  - lux.scss
+css: styles.css

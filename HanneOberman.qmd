@@ -1,31 +1,9 @@
 ---
 title: Hanne Oberman
 subtitle: Statistician, interdisciplinarian, open scientist
-author: ""
-title-block-banner: false
-toc: true
-format: 
-  html: 
-    page-layout: article
-  pdf:
-    keep_tex: true
-include-before-header: includes.tex
-theme: 
-  - lux
-  - lux.scss
-css: styles.css
 ---
 
-<link rel=stylesheet href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-<link rel=stylesheet href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-
-<a href=mailto:h.i.oberman@uu.nl class="fa fa-envelope"></a>
-<a href=http://hanneoberman.github.io/ class="fa fa-home"></a>
-<a href=https://orcid.org/0000-0003-3276-2141 class="ai ai-orcid"></a>
-<a href=http://github.com/hanneoberman/ class="fa-brands fa-github"></a>
-<a href=https://www.linkedin.com/in/hanneoberman/ class="fa-brands fa-linkedin"></a>
-<a href=https://mastodon.social/@oberman class="fa-brands fa-mastodon"></a>
-<a href=https://twitter.com/hioberman class="fa-brands fa-twitter"></a>
+{{< include banner.html >}}
 
 ---
 
@@ -121,29 +99,33 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 * Board, Founder and treasurer of the Methodology And Statistics Alumni Society (MASAS). Tasks include planning events and developing the network., MASAS,
 
-[2020-2022]{.aside}
+<!-- [2020-2022]{.aside} -->
 
-* Think tank, Providing feedback and advice to the management teams of the Faculty of Social and Behavioural Sciences., Utrecht University,
+<!-- * Think tank, Providing feedback and advice to the management teams of the Faculty of Social and Behavioural Sciences., Utrecht University, -->
 
 [2019-2020]{.aside}
 
 * Research assistant Developing novel methods to improve the validity of social scientific prediction. With Dr. Dong Nguyen and Dr. Daniel Oberski. My task was to develop a reproducible pipeline for natural language processing with `R` and `Python`. I mostly focused on the prerequisites for 'pre-registration' of these kinds of analyses.
 
-[2019-2020]{.aside}
-
-* Educational committee, General member of the student council Faculty of Social and Behavioural Sciences  Research Masters., Utrecht University,
-
-[2018-2020]{.aside}
-
-* Programme advisory committee, Student representative Methodology and Statistics for the Behavioural, Biomedical and Social Sciences., Utrecht University
-
 [2017-2020]{.aside}
 
 * Teaching assistant, Teaching Methodology and Statistics and Experimental Psychology courses at all undergraduate levels. Tasks varied from practical supervision to lecturing, and from leading workgroups to grading assignments., Utrecht University,
 
-[2017-2018]{.aside}
+[2017-2022]{.aside}
 
-* Educational committee, President of the student council Liberal Arts and Sciences; vicepresident of the educational committee., Utrecht University,
+* Representative advisory bodies. E.g., Think tank, Providing feedback and advice to the management teams of the Faculty of Social and Behavioural Sciences, student council Faculty of Social and Behavioural Sciences research masters, Programme advisory committee MSBBSS, president of the student council Liberal Arts and Sciences
+
+<!-- [2019-2020]{.aside} -->
+
+<!-- * Educational committee, General member of the student council Faculty of Social and Behavioural Sciences  Research Masters., Utrecht University, -->
+
+<!-- [2018-2020]{.aside} -->
+
+<!-- * Programme advisory committee, Student representative Methodology and Statistics for the Behavioural, Biomedical and Social Sciences., Utrecht University -->
+
+<!-- [2017-2018]{.aside} -->
+
+<!-- * Educational committee, President of the student council Liberal Arts and Sciences; vicepresident of the educational committee., Utrecht University, -->
 
 [2014-2018]{.aside}
 
@@ -151,7 +133,7 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 [2012-2017]{.aside}
 
-* Hospitality, food sector, and volunteering, As a student, I have always worked part-time in restaurants and at a sustainable food start-up. Next to that, I have volunteered at an animal shelter and several cultural festivals. Tasks include supervision of a team of 5-10 colleagues, customer service, and account management., E.g., Dudok Rotterdam,
+* Extracurriculair sidelines: Hospitality, food sector, and volunteering. As a student, I have always worked part-time in restaurants and at a sustainable food start-up. Next to that, I have volunteered at an animal shelter and several cultural festivals. Tasks include supervision of a team of 5-10 colleagues, customer service, and account management., E.g., Dudok Rotterdam,
   
 
 ## Grant and awards
@@ -249,7 +231,9 @@ Ignace Hooge.
 
 Dutch, English, R, Python, Matlab
 
+## Publications
 
+<!-- List pubs here -->
 
 <!-- date: last-modified -->
 <!-- date-format: DD-MM-YYYY -->
