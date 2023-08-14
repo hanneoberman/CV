@@ -1,6 +1,7 @@
 ---
 title: Hanne Oberman
 subtitle: Statistician, interdisciplinarian, open scientist
+bibliography: publications.bib
 ---
 
 {{< include links.html >}}
@@ -57,7 +58,7 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 [2023-current]{.aside}
 
-* IOPS graduate school
+* Graduate school, Interuniversity Graduate School of Psychometrics and Sociometrics (IOPS), an institute for the advanced dissertation training in psychometrics and sociometrics of PhD students in the Netherlands and Belgium.
 
 [2018-2020]{.aside}
 
@@ -87,13 +88,10 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 ## Ancillary positions
 
-[2023]{.aside}
+[2021, 2023]{.aside}
 
-* Re-accreditation committees
+* Programme accreditation panel student member, in assessment cluster research masters social and behavioural sciences, Nederlands-Vlaamse Accreditatieorganisatie (NVAO)
 
-[2021]{.aside}
-
-* Accreditation committees
 
 [2019-current]{.aside}
 
@@ -140,11 +138,11 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 [2021]{.aside}
 
-* Open Science Fund
+* Open Science Fund, This project aims to make the MICE functionality available through a restful API to accommodate a wider user group. 
 
 [2022]{.aside}
 
-* Open Science Fund
+* Open Science Fund, The dessert package allows you to automatically generate methodological appendices for your research workflows. https://www.gerkovink.com/dessert
 
 [2019]{.aside}
 
@@ -159,7 +157,7 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 [2023]{.aside}
 
-* EAM
+* Paper presentation, European Congress of Methodology, 'Towards a standardized evaluation of imputation methodology: potential pitfalls in simulation studies and a proposed course of action, EAM 2023, Ghent, Belgium
 
 [2021]{.aside}
 
@@ -232,6 +230,14 @@ Ignace Hooge.
 Dutch, English, R, Python, Matlab
 
 ## Publications
+
+---
+nocite: |
+  @*
+---
+
+::: {#refs}
+:::
 
 <!-- List pubs here -->
 
