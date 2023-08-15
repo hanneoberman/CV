@@ -93,9 +93,9 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 * Programme accreditation panel student member, in assessment cluster research masters social and behavioural sciences, Nederlands-Vlaamse Accreditatieorganisatie (NVAO)
 
 
-[2019-current]{.aside}
+<!-- [2019-current]{.aside} -->
 
-* Board, Founder and treasurer of the Methodology And Statistics Alumni Society (MASAS). Tasks include planning events and developing the network., MASAS,
+<!-- * Board, Founder and treasurer of the Methodology And Statistics Alumni Society (MASAS). Tasks include planning events and developing the network., MASAS, -->
 
 <!-- [2020-2022]{.aside} -->
 
