@@ -209,20 +209,53 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 ## Teaching and supervision
 
-* Courses taught: ’Applying Research Methods and Statistics’ (practicals), ’Advanced Research Methods and Statistics’ (developing assignments, grading, workgroups, practicals), ’Doing a Qualitative
-Research Project’ (developing assignments, lecturing, workgroups,
-practicals), ’Qualitative Inquiry in Everyday Life’ (lecturing, workgroups).
+Undergraduate psychology
 
-* ‘TOE’, ‘MET24’ (UCU-cursus kwalitatief onderzoek), het kwalitatieve deel van ‘VOS’, en cursussen uit de M&S-minor ‘DaQRP’ en ‘MDaCE’. 
+- 2016-2017: 'Leren lesgeven in het hoger onderwijs' practica experimenteren \& registreren 'Experimenting and registering' (practicals) with opensesame \& matlab 
+- 2017-2018: 'Practicals in cognitive and neurobiological psychology' ('Practicum cognitieve en neurobiologische psychologie') in matlab
 
-* 2016-2017: “Leren lesgeven in het hoger onderwijs’ practica experimenteren \& registreren with opensesame \& matlab
 
-* 2017-2018: 'Practicum cognitieve en neurobiologische psychologie’ in matlab
-’Practicals in cognitive and neurobiological psychology
+Undergraduate methodology and statistics
 
-* ’Experimenting and registering’ (practicals). Training
-in teaching and presentation skills by Prof. Dr. Susan te Pas and Dr.
-Ignace Hooge.
+- 2017-2018: 'Applying Research Methods and Statistics' (practicals; ‘TOE')
+- 2018-2019: 'Advanced Research Methods and Statistics' (developing assignments, grading, workgroups, practicals; alpo mts3), 'Doing a Qualitative Research Project' (developing assignments, lecturing, workgroups, practicals), 'Qualitative Inquiry in Everyday Life' (lecturing, workgroups). ‘MET24' (UCU-cursus kwalitatief onderzoek)
+- 2020-2021: het kwalitatieve deel van ‘VOS'
+- 2020-2021: ARMS+SHOP (work groups, grading, test organization)
+- 2021-2022: ARMS+SHOP (work groups, grading, test organization)
+- 2021-2022: VOS (work groups, grading)
+- 2021-2022: BOS (pre-masters) (work groups, grading, test organization)
+- 2022-2023: VOS (work groups, grading)
+
+Graduate methodology and statistics
+
+- 2021-2022: Markup languages and reproducible programming (lecture)
+- 2022-2023: Markup languages and reproducible programming (lecture, grading)
+- 2023-2024: Markup languages and reproducible programming (lecture)
+
+
+Applied data science
+
+- 2020-2021: applied data analysis and visualization (lecture, work groups, grading)
+- 2020-2021: master thesis ads
+- 2021-2022: applied data analysis and visualization (lecture)
+- 2021-2022: master thesis ads
+- 2022-2023: applied data analysis and visualization (lecture)
+- 2022-2023: Statistical Programming with R (summer school) (lecture)
+
+'Missing data and causal effects'
+- 2021-2022: work groups, grading
+- 2022-2023: work groups, grading, test organization
+
+## Service
+
+- Yearly consultation shop
+- EUR consultation
+- referee 
+
+## Professional memberships
+
+- sips
+- vvsor
 
 
 ## Languages
@@ -230,6 +263,9 @@ Ignace Hooge.
 Dutch, English, R, Python, Matlab
 
 ## Publications
+
+<!-- journal articles, book chapters, under review, working papers, essays and reviews, software packages, other publications -->
+add open science monitor!
 
 ---
 nocite: |
