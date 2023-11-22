@@ -246,6 +246,15 @@ Applied data science
 - 2021-2022: work groups, grading
 - 2022-2023: work groups, grading, test organization
 
+-	Basis van Onderzoeksmethoden en Statistiek 
+-	Verdieping Onderzoeksmethoden en Statistiek
+-	Advanced Research Methods and Statistics
+-	Technieken voor analyse kwalitatieve en kwantitatieve gegevens
+-	Applied Data Analysis and Visualization
+-	Bachelorthesis Pedagogische Wetenschappen
+-	Research Project GSNS (Masterthesis Applied Data Science)
+
+
 ## Service
 
 - Yearly consultation shop
