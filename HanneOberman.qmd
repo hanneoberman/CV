@@ -2,9 +2,17 @@
 title: Hanne Oberman
 subtitle: Statistician, interdisciplinarian, open scientist
 bibliography: publications.bib
+toc: false
+# date: last-modified
+# date-format: short
+date-meta: last-modified
+email-obfuscation: javascript
 ---
 
 {{< include links.html >}}
+
+<!-- Last modified: {{< meta date >}} -->
+
 
 ---
 
@@ -27,11 +35,25 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 :::
 ::::
 
+---
+
 ## Experience
 
-[2023-current]{.aside}
+[2024-current]{.aside}
 
-* PhD candidate [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) \| Utrecht University \| Utrecht, The Netherlands
+* **Junior assistant professor** (PhD candidate and lecturer) [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) \| Utrecht University \| Utrecht \| The Netherlands
+
+<!-- ::: {.callout-note collapse="true"} -->
+<!-- ## Tasks -->
+
+<!-- This is an example of a 'folded' caution callout that can be expanded by the user. You can use `collapse="true"` to collapse it by default or `collapse="false"` to make a collapsible callout that is expanded by default. -->
+<!-- ::: -->
+
+<!-- start date 01-05-2024 -->
+
+[2023-2024]{.aside}
+
+* PhD candidate [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) \| Utrecht University \| Utrecht \| The Netherlands
 
 <!-- My aim is to develop interactive evaluation tools for incomplete data. Multiple imputation (Rubin, 1976) is a state-of-the-art technique for drawing valid conclusions from incomplete data, and is increasingly used in incomplete data analysis in many substantive fields. The R package mice (van Buuren & Groothuis-Oudshoorn, 2011) has become the de facto standard for the statistical analysis of incomplete data.  -->
 <!-- With this project, we will connect applied researchers to statisticians by forming a bridge between the computational elements in computer science, data visualization, and inferential statistics. We do so by extending and improving the iterative multiple imputation framework such that applied researchers and advanced users can utilize it and can interpret its validity.  -->
@@ -40,58 +62,70 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 <!-- The project aims will be achieved by investigating, evaluating, and implementing methods and data visualization tools for incomplete data analysis. -->
 
-[2022-current]{.aside}
+<!-- start data 01-01-2023 -->
 
-* Faculty ambassador [Open Science Community Utrecht](https://openscience-utrecht.com/) \| Utrecht University \| Utrecht, The Netherlands 
+[2020-2023]{.aside}
 
-<!-- > This is a sentence explaining what OSCU is and what my role is. -->
-
-
-[2020-2022]{.aside}
-
-* Research and education officer [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) and [Julius Center for Health Sciences and Primary Care](https://juliuscentrum.umcutrecht.nl/en/) \| Utrecht University \| Utrecht, The Netherlands 
+* Research and education officer [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) and [Julius Center for Health Sciences and Primary Care](https://juliuscentrum.umcutrecht.nl/en/) \| Utrecht University \| Utrecht \| The Netherlands
 
 <!-- Teaching (under)graduate courses in statistics and data science. Researching missing data imputation and visualization. With Dr. Gerko Vink and Prof. Dr. Stef van Buuren. Secondment for 0.4 FTE as research assistant [Julius Center for Health Sciences and Primary Care](https://juliuscentrum.umcutrecht.nl/en/) \| University Medical Center Utrecht \| Utrecht, The Netherlands -->
 
+<!-- start date 01-06-2020 -->
+
+---
 
 ## Education
 
 [2023-current]{.aside}
 
-* Graduate school, Interuniversity Graduate School of Psychometrics and Sociometrics (IOPS), an institute for the advanced dissertation training in psychometrics and sociometrics of PhD students in the Netherlands and Belgium.
+* **Graduate school** [Interuniversity Graduate School of Psychometrics and Sociometrics (IOPS)](https://www.iops.nl/) \| IOPS \| The Netherlands and Belgium
+
+<!-- Institute for the advanced dissertation training in psychometrics and sociometrics of PhD students in the Netherlands and Belgium -->
 
 [2018-2020]{.aside}
 
-* MSc [Methodology and Statistics for the Behavioural, Biomedical and Social Sciences](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences) \| Utrecht University \| Utrecht, The Netherlands
+* MSc [Methodology and Statistics for the Behavioural, Biomedical and Social Sciences](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences) \| Utrecht University \| Utrecht \| The Netherlands
 
 <!-- Graduated cum laude. Electives in Philosophy of Science., 2018-2020, MSc Methodology and Statistics for the Behavioural, Biomedical and Social Sciences, Utrecht University, -->
 
-
 [2018]{.aside}
 
-* Post-graduate education [International Graduate Summer School of the Global Academy of Liberal Arts](https://www.concordia.ca/summer/artsci/Previous-Summer-Schools/2018/GALA2018.html) \| Concordia University, Montreal, Canada
+* Post-graduate education [International Graduate Summer School of the Global Academy of Liberal Arts](https://www.concordia.ca/summer/artsci/Previous-Summer-Schools/2018/GALA2018.html) \| Concordia University \| Montréal \| Canada
 
   <!-- Global Academy of Liberal Arts interdisciplinary conference and summer school., 2018, Graduate Summer School, Concordia University, Montreal, -->
 
 [2016-2018]{.aside}
 
-* Honours degree [Descartes College](https://students.uu.nl/en/academics/honours/programmes/descartes-college) \| Utrecht University \| Utrecht, The Netherlands
+* Honours degree [Descartes College](https://students.uu.nl/en/academics/honours/programmes/descartes-college) \| Utrecht University \| Utrecht \| The Netherlands
 
   <!-- Interdisciplinary honours program Descartes College., 2016-2018, Honours Degree, Utrecht University, -->
 
 [2014-2018]{.aside}
 
-* BSc [Liberal Arts and Sciences](https://www.uu.nl/bachelors/liberal-arts-and-sciences) \| Utrecht University \| Utrecht, The Netherlands
+* BSc [Liberal Arts and Sciences](https://www.uu.nl/bachelors/liberal-arts-and-sciences) \| Utrecht University \| Utrecht \| The Netherlands
 
 <!--   Graduated cum laude. Major in Cognitive Neurobiological Psychology. Minor in Governance for Sustainable Development, and Methods and Statistics in -->
 <!-- the Social and Behavioral Science., 2014-2018, BSc Liberal Arts and Sciences, Utrecht University -->
 
+---
+
 ## Ancillary positions
+
+[2024-current]{.aside}
+
+* **Chair Faculty Open Science Team** [FOST](https://www.uu.nl/en/research/open-science/people/faculty-open-science-team) \| Utrecht University \| Utrecht \| The Netherlands 
+
+[2022-current]{.aside}
+
+* **Faculty ambassador** [Open Science Community Utrecht](https://openscience-utrecht.com/) \| Utrecht \| The Netherlands 
+
+<!-- > This is a sentence explaining what OSCU is and what my role is. start date 01-07-2022 -->
 
 [2021, 2023]{.aside}
 
-* Programme accreditation panel student member, in assessment cluster research masters social and behavioural sciences, Nederlands-Vlaamse Accreditatieorganisatie (NVAO)
+* Programme accreditation panel member [Nederlands-Vlaamse Accreditatieorganisatie (NVAO)](https://www.nvao.net/en) \| Research master programmes in the social and behavioural sciences \| The Netherlands
 
+<!-- Student member in programme accreditation panels for the assessment cluster research masters social and behavioural sciences \| [Nederlands-Vlaamse Accreditatieorganisatie (NVAO)](https://www.nvao.net/en) -->
 
 <!-- [2019-current]{.aside} -->
 
@@ -103,15 +137,23 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 [2019-2020]{.aside}
 
-* Research assistant Developing novel methods to improve the validity of social scientific prediction. With Dr. Dong Nguyen and Dr. Daniel Oberski. My task was to develop a reproducible pipeline for natural language processing with `R` and `Python`. I mostly focused on the prerequisites for 'pre-registration' of these kinds of analyses.
+* Research assistant with [Dong Nguyen](https://orcid.org/0000-0002-6062-3117) and [Daniel Oberski](https://orcid.org/0000-0001-7467-2297) \| Utrecht University \| Utrecht \| The Netherlands
+
+<!-- Developing novel methods to improve the validity of social scientific prediction. With Dong Nguyen and Daniel Oberski. My task was to develop a reproducible pipeline for natural language processing with `R` and `Python`. I mostly focused on the prerequisites for 'pre-registration' of these kinds of analyses. -->
+
+<!-- - steven? -->
 
 [2017-2020]{.aside}
 
-* Teaching assistant, Teaching Methodology and Statistics and Experimental Psychology courses at all undergraduate levels. Tasks varied from practical supervision to lecturing, and from leading workgroups to grading assignments., Utrecht University,
+* Teaching assistant in [Methodology & Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics/education) and [Experimental Psychology](https://www.uu.nl/en/organisation/experimental-psychology/education) \| Utrecht University \| Utrecht \| The Netherlands
+
+<!-- Teaching Methodology and Statistics and Experimental Psychology courses at all undergraduate levels. Tasks varied from practical supervision to lecturing, and from leading workgroups to grading assignments., Utrecht University, -->
 
 [2017-2022]{.aside}
 
-* Representative advisory bodies. E.g., Think tank, Providing feedback and advice to the management teams of the Faculty of Social and Behavioural Sciences, student council Faculty of Social and Behavioural Sciences research masters, Programme advisory committee MSBBSS, president of the student council Liberal Arts and Sciences
+* Representative in advisory bodies, e.g. student council [Liberal Arts and Sciences](https://students.uu.nl/gw/las/contact/opleidingscommissie) \| Utrecht University \| Utrecht \| The Netherlands
+
+<!-- . E.g., Think tank, Providing feedback and advice to the management teams of the Faculty of Social and Behavioural Sciences, student council Faculty of Social and Behavioural Sciences research masters, Programme advisory committee MSBBSS, president of the student council Liberal Arts and Sciences -->
 
 <!-- [2019-2020]{.aside} -->
 
@@ -125,86 +167,120 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 <!-- * Educational committee, President of the student council Liberal Arts and Sciences; vicepresident of the educational committee., Utrecht University, -->
 
+[2016-2017]{.aside}
+
+* Research internship with [Merel van Goch](https://orcid.org/0000-0002-9303-0916) \| Utrecht University \| Utrecht \| The Netherlands
+
 [2014-2018]{.aside}
 
-* Board and committees, I have been an active member of the study association Liberal Arts and Sciences, USLAS Atlas. Positions include vice-president of the association, president of the parents' day committee, secretary of the travel committee, and student-mentorship., USLAS Atlas,
+* Board member and committees for study association [USLAS Atlas](https://www.usatlas.nl/) \| Utrecht University \| Utrecht \| The Netherlands
 
-[2012-2017]{.aside}
+<!-- I have been an active member of the study association Liberal Arts and Sciences, USLAS Atlas. Positions include vice-president of the association, president of the parents' day committee, secretary of the travel committee, and student-mentorship., USLAS Atlas, -->
 
-* Extracurriculair sidelines: Hospitality, food sector, and volunteering. As a student, I have always worked part-time in restaurants and at a sustainable food start-up. Next to that, I have volunteered at an animal shelter and several cultural festivals. Tasks include supervision of a team of 5-10 colleagues, customer service, and account management., E.g., Dudok Rotterdam,
+<!-- [2012-2017]{.aside} -->
+
+<!-- * Extracurricular sidelines, e.g. hospitality, food sector, and volunteering \| part-time next to studies -->
+
+<!-- As a student, I have always worked part-time in restaurants and at a sustainable food start-up. Next to that, I have volunteered at an animal shelter and several cultural festivals. Tasks include supervision of a team of 5-10 colleagues, customer service, and account management., E.g., Dudok Rotterdam, -->
   
+<!-- - stage merel -->
+<!-- - stage roy -->
+
+
+<!-- ## Service -->
+
+<!-- - Yearly consultation shop -->
+<!-- - EUR consultation -->
+<!-- - referee  -->
+
+## Professional memberships and service
+
+- The Society for the Improvement of Psychological Science [SIPS](https://improvingpsych.org/)
+- Netherlands Society for Statistics and Operations Research [VVSOR](https://www.vvsor.nl/)
+- Interuniversity Graduate School of Psychometrics and Sociometrics [IOPS](https://www.iops.nl/)
+- Open Science Community Utrecht [OSCU](https://openscience-utrecht.com/)
+- [rainbowR](https://rainbowr.netlify.app/)
+- [R contributors](https://contributor.r-project.org/)
+- Peer-review for e.g. [Biomedical Journal](https://onlinelibrary.wiley.com/journal/15214036) and [Statistica Neerlandica](https://onlinelibrary.wiley.com/journal/14679574)
+- [Statistical consulting](https://www.uu.nl/en/organisation/methodology-and-statistics/training-and-support)
+
 
 ## Grant and awards
 
-[2021]{.aside}
+[2023]{.aside}
 
-* Open Science Fund, This project aims to make the MICE functionality available through a restful API to accommodate a wider user group. 
+* Project, 'MICE ONLINE: A new service to solve missing data problems', [Open Science Fund](https://www.uu.nl/onderzoek/open-science/awarded-projects-open-science-fund), Utrecht University, Utrecht, The Netherlands
+
+<!-- This project aims to make the MICE functionality available through a restful API to accommodate a wider user group.  -->
 
 [2022]{.aside}
 
-* Open Science Fund, The dessert package allows you to automatically generate methodological appendices for your research workflows. https://www.gerkovink.com/dessert
+* Project, '`dessert`: an automated tool for transparent and reproducible scientific reporting', [Open Science Fund](https://www.uu.nl/onderzoek/open-science/awarded-projects-open-science-fund) , Utrecht University, Utrecht, The Netherlands
+
+<!--  The dessert package allows you to automatically generate methodological appendices for your research workflows. -->
+<!-- https://www.gerkovink.com/dessert -->
 
 [2019]{.aside}
 
-* Best poster, Social and Behavioural Sciences Graduate Poster Fair. Poster presentation about scientific practices around non-significant results: 'Will You Publish Null Papers?', in collaboration with Jerry Wenzel., Utrecht University,
+* Best poster, 'Will You Publish Null Papers?', Social and Behavioural Sciences Graduate Poster Fair, Utrecht University, Utrecht, The Netherlands
+
+<!-- Social and Behavioural Sciences Graduate Poster Fair. Poster presentation about scientific practices around non-significant results: 'Will You Publish Null Papers?', in collaboration with Jerry Wenzel., Utrecht University, -->
 
 [2018]{.aside}
 
-* Fellowship award, Global Academy of Liberal Arts Annual Conference 'Creativity and the Liberal Arts' (HUMA 887)., Concordia University, Montreal,
+* Fellowship award, Global Academy of Liberal Arts Annual Conference 'Creativity and the Liberal Arts' (HUMA 887), Concordia University, Montréal, Canada
 
 
 ## Conferences
 
+[2024]{.aside}
+
+* Tutorial, 'Open (your) Science Using the Statistical Package `JASP`', [EMLAR](https://emlar.wp.hum.uu.nl/), Utrecht, The Netherlands
+
+[2024]{.aside}
+
+* Presentation, 'Data visualization for incomplete datasets in `R`', Annual Meeting [VVSOR](https://www.vvsor.nl/articles/vvsor-annual-meeting-2024/), Utrecht, The Netherlands
+
+
 [2023]{.aside}
 
-* Paper presentation, European Congress of Methodology, 'Towards a standardized evaluation of imputation methodology: potential pitfalls in simulation studies and a proposed course of action, EAM 2023, Ghent, Belgium
+* Presentation, 'Towards a standardized evaluation of imputation methodology: potential pitfalls in simulation studies and a proposed course of action', European Congress of Methodology [EAM](https://eam2023.ugent.be/), Ghent, Belgium
+
+[2023]{.aside}
+
+* Poster presentation, 'Visualization of incomplete and imputed data with the `R` package `ggmice`', Summer Conference  [IOPS](https://www.iops.nl/conferences/), Tilburg, The Netherlands
 
 [2021]{.aside}
 
-* Late-breaking work in progress,
-  IEEE VIS workshop 'VisComm: Visualization for Communication'. Title: 'Visualizing Uncertainty Due to Missing Data'.,
-  VIS 2021,
+* Late-breaking work in progress, 'Visualizing Uncertainty Due to Missing Data', IEEE VIS workshop 'VisComm: Visualization for Communication' [VIS2021](https://ieeevis.org/year/2021/welcome), online
 
 [2021]{.aside}
   
-* Community led session,
-  Open Science Festival. Title: 'Pre-registration of Data Science Studies'.,
-  OSF 2021
+* Community led session, 'Pre-registration of Data Science Studies', Open Science Festival [OSF2021NL](https://www.openscience.nl/open-science-festival), online
 
 [2020]{.aside}
   
-* Online paper presentation,
-  International Conference on Machine Learning (ICML) workshop 'ARTEMISS: The Art of Learning with Missing Values'. Title: 'Missing the Point: Non-Convergence in Iterative Imputation Algorithms'.,
-  ICML 2020
+* Presentation, 'Missing the Point: Non-Convergence in Iterative Imputation Algorithms', International Conference on Machine Learning (ICML) workshop 'ARTEMISS: The Art of Learning with Missing Values' [ICML](https://icml.cc/virtual/2020), online
   
 [2019]{.aside}
 
-* Pre-study poster presentation,
-  Society for the Improvement of Psychological Science (SIPS) conference. Title: 'ShinyMICE: Developing a Missing Data Evaluation Suite (Master's Thesis Methodology and Statistics)'.,
-  SIPS 2019,
+* Pre-study poster presentation, 'ShinyMICE: Developing a Missing Data Evaluation Suite (Master's Thesis Methodology and Statistics)', Society for the Improvement of Psychological Science (SIPS) conference   [SIPS2029](https://www.improvingpsych.org/SIPS2019/), Rotterdam, The Netherlands
   
 [2018]{.aside}
 
-* Showcase,
-  Global Academy of Liberal Arts (GALA) Annual Conference. Title 'Creativity and the Liberal Arts'., GALA 2018,
+* Showcase, 'Creativity and the Liberal Arts', Global Academy of Liberal Arts (GALA) Annual Conference [GALA](https://gala.network/conference/), Montréal, Canada
 
-[2017]{.aside}
+[2018]{.aside}
 
-* Invited talk,
-  European Liberal Education Student Conference (LESC). Title: 'Creating Creativity? Assessing adaptive expertise in Liberal Education students'.,
-  LESC 2017  
+* Invited talk, 'Creating Creativity? Assessing adaptive expertise in Liberal Education students', European Liberal Education Student Conference [LESC](https://3rdlesconference.wordpress.com/), Utrecht, The Netherlands
   
 [2016]{.aside}
 
-* Poster presentation,
-  Utrecht Platform for Creativity in Education (UPCE) conference. Title: 'Assessing Adaptive Expertise in Higher Education Students'.,
-  UPCE 2016
+* Poster presentation, 'Assessing Adaptive Expertise in Higher Education Students', Utrecht Platform for Creativity in Education (UPCE) conference [UPCE](https://upce.org/), Utrecht, The Netherlands
   
 [2016]{.aside}
   
-* Workshop,
-  National Interdisciplinary Education (NIE) Conference. Title: 'The interdisciplinary research process in practice'.,
-  NIE 2016
+* Workshop, 'The interdisciplinary research process in practice', National Interdisciplinary Education (NIE) Conference [NIE](https://nie-conference.nl/), Amsterdam, The Netherlands
 
 
 ## Teaching and supervision
@@ -255,26 +331,20 @@ Applied data science
 -	Research Project GSNS (Masterthesis Applied Data Science)
 
 
-## Service
 
-- Yearly consultation shop
-- EUR consultation
-- referee 
+<!-- ## Languages -->
 
-## Professional memberships
+<!-- Dutch, English -->
 
-- sips
-- vvsor
+<!-- ## Software -->
 
-
-## Languages
-
-Dutch, English, R, Python, Matlab
+<!-- R, Python, Matlab, LaTeX, git, Rmarkdown, SPSS, JASP, Excel -->
 
 ## Publications
 
 <!-- journal articles, book chapters, under review, working papers, essays and reviews, software packages, other publications -->
-add open science monitor!
+
+<!-- add open science monitor! -->
 
 ---
 nocite: |
