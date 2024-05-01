@@ -147,7 +147,7 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 * Teaching assistant in [Methodology & Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics/education) and [Experimental Psychology](https://www.uu.nl/en/organisation/experimental-psychology/education) \| Utrecht University \| Utrecht \| The Netherlands
 
-<!-- Teaching Methodology and Statistics and Experimental Psychology courses at all undergraduate levels. Tasks varied from practical supervision to lecturing, and from leading workgroups to grading assignments., Utrecht University, -->
+<!-- Teaching Methodology and Statistics and Experimental Psychology courses at all undergraduate levels. Tasks varied from supervising practicals to lecturing, and from leading work groups to grading assignments., Utrecht University, -->
 
 [2017-2022]{.aside}
 
@@ -192,17 +192,6 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 <!-- - Yearly consultation shop -->
 <!-- - EUR consultation -->
 <!-- - referee  -->
-
-## Professional memberships and service
-
-- The Society for the Improvement of Psychological Science [SIPS](https://improvingpsych.org/)
-- Netherlands Society for Statistics and Operations Research [VVSOR](https://www.vvsor.nl/)
-- Interuniversity Graduate School of Psychometrics and Sociometrics [IOPS](https://www.iops.nl/)
-- Open Science Community Utrecht [OSCU](https://openscience-utrecht.com/)
-- [rainbowR](https://rainbowr.netlify.app/)
-- [R contributors](https://contributor.r-project.org/)
-- Peer-review for e.g. [Biomedical Journal](https://onlinelibrary.wiley.com/journal/15214036) and [Statistica Neerlandica](https://onlinelibrary.wiley.com/journal/14679574)
-- [Statistical consulting](https://www.uu.nl/en/organisation/methodology-and-statistics/training-and-support)
 
 
 ## Grants and awards
@@ -285,51 +274,139 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 ## Teaching and supervision
 
-Undergraduate psychology
 
-- 2016-2017: 'Leren lesgeven in het hoger onderwijs' practica experimenteren \& registreren 'Experimenting and registering' (practicals) with opensesame \& matlab 
-- 2017-2018: 'Practicals in cognitive and neurobiological psychology' ('Practicum cognitieve en neurobiologische psychologie') in matlab
+#### Thesis supervision
 
+[2023-current]{.aside}
 
-Undergraduate methodology and statistics
+* Research Master thesis Methodology and Statistics for the Behavioural, Biomedical and Social Sciences, co-supervision of 1 student (2023-2024)
 
-- 2017-2018: 'Applying Research Methods and Statistics' (practicals; ‘TOE')
-- 2018-2019: 'Advanced Research Methods and Statistics' (developing assignments, grading, workgroups, practicals; alpo mts3), 'Doing a Qualitative Research Project' (developing assignments, lecturing, workgroups, practicals), 'Qualitative Inquiry in Everyday Life' (lecturing, workgroups). ‘MET24' (UCU-cursus kwalitatief onderzoek)
-- 2020-2021: het kwalitatieve deel van ‘VOS'
-- 2020-2021: ARMS+SHOP (work groups, grading, test organization)
-- 2021-2022: ARMS+SHOP (work groups, grading, test organization)
-- 2021-2022: VOS (work groups, grading)
-- 2021-2022: BOS (pre-masters) (work groups, grading, test organization)
-- 2022-2023: VOS (work groups, grading)
+[2020-2022]{.aside}
 
-Graduate methodology and statistics
-
-- 2021-2022: Markup languages and reproducible programming (lecture)
-- 2022-2023: Markup languages and reproducible programming (lecture, grading)
-- 2023-2024: Markup languages and reproducible programming (lecture)
+* Master thesis Applied Data Science 'Research Project GSNS', co-supervision of 3 students (2020-2021), supervision of 3 students (2021-2022)
 
 
-Applied data science
+#### Missing data methodology
 
-- 2020-2021: applied data analysis and visualization (lecture, work groups, grading)
-- 2020-2021: master thesis ads
-- 2021-2022: applied data analysis and visualization (lecture)
-- 2021-2022: master thesis ads
-- 2022-2023: applied data analysis and visualization (lecture)
-- 2022-2023: Statistical Programming with R (summer school) (lecture)
+[2021-current]{.aside}
 
-'Missing data and causal effects'
-- 2021-2022: work groups, grading
-- 2022-2023: work groups, grading, test organization
+* 'Missing Data and Causal Effects' (advanced undergraduate), lectures (2023-2024), work groups and grading (2021-2022, 2022-2023)
 
--	Basis van Onderzoeksmethoden en Statistiek 
--	Verdieping Onderzoeksmethoden en Statistiek
--	Advanced Research Methods and Statistics
--	Technieken voor analyse kwalitatieve en kwantitatieve gegevens
--	Applied Data Analysis and Visualization
--	Bachelorthesis Pedagogische Wetenschappen
--	Research Project GSNS (Masterthesis Applied Data Science)
 
+#### Programming and applied data science
+
+[2022-current]{.aside}
+
+* 'Statistical Programming with R' (summer school), guest lecture (2022-2023, 2023-2024)
+
+[2021-current]{.aside}
+
+* 'Markup Languages and Reproducible Programming in Statisitcs' (research master), lectures (2023-2024), guest lecture (2021-2022, 2022-2023), grading (2022-2023, 2023-2024)
+
+[2020-current]{.aside}
+
+* Applied Data Analysis and Visualization (advanced undergraduate), guest lecture (2020-2021, 2021-2022, 2022-2023, 2023-2024), work groups and grading (2020-2021)
+
+[2017-2018]{.aside}
+
+* 'Practicum cognitieve en neurobiologische psychologie' (advanced undergraduate), supervising practicals 
+
+[2016-2017]{.aside}
+
+* 'Experimenting and registering' (advanced undergraduate), supervising practicals
+
+
+#### Qualitative research methodology
+
+[2020-2022]{.aside}
+
+* 'Technieken voor analyse kwalitatieve en kwantitatieve gegevens (TAK)' (advanced undergraduate), supervising practicals
+
+[2018-2019]{.aside}
+
+* 'Advanced Research Methods and Statistics' (advanced undergraduate), developing assignments, grading, teaching work groups, supervising practicals 
+
+[2018-2019]{.aside}
+
+* 'Doing a Qualitative Research Project' (advanced undergraduate), developing assignments, lecturing, teaching work groups, supervising practicals
+
+[2018-2019]{.aside}
+
+* 'Qualitative Inquiry in Everyday Life (MET24)' (advanced undergraduate), teaching work groups, supervising practicals
+
+
+#### Methodology and statistics
+
+[2020-current]{.aside}
+
+* 'Verdieping Onderzoeksmethoden en Statistiek (VOS)' (advanced undergraduate), teaching work groups, and grading (2020-2021, 2022-2023, 2023-2024)
+
+[2021-2022]{.aside}
+
+* 'Basis van Onderzoeksmethoden en Statistiek' (pre-master), teaching work groups, grading, and test organization
+
+[2021-2022]{.aside}
+
+* 'Bachelorthesis Pedagogische Wetenschappen' (advanced undergraduate), consultancy in methodology & statistics labs
+
+[2020-2022]{.aside}
+
+* 'Advanced Research Methods and Statistics' (advanced undergraduate), teaching work groups, grading, and test organization (2020-2021, 2021-2022)
+
+[2017-2018]{.aside}
+
+* 'Toepassing van onderzoeksmethoden en statistiek (TOE)' (introductory undergraduate)
+
+<!-- - 2020-2021: Advanced Research Methods and Statistics (ARMS+SHOP; work groups, grading, test organization) -->
+
+<!-- - 2021-2022: Advanced Research Methods and Statistics (ARMS+SHOP; work groups, grading, test organization) -->
+<!-- - 2021-2022: Verdieping Onderzoeksmethoden en Statistiek (VOS; work groups, grading) -->
+<!-- - 2021-2022: Basis van Onderzoeksmethoden en Statistiek (BOS; pre-masters; work groups, grading, test organization) -->
+<!-- - 2022-2023: VOS (work groups, grading) -->
+
+
+<!-- ### Undergraduate cognitive psychology -->
+
+<!-- - 2016-2017: 'Leren lesgeven in het hoger onderwijs' practica experimenteren \& registreren 'Experimenting and registering' (practicals) with opensesame \& matlab  -->
+<!-- - 2017-2018: 'Practicals in cognitive and neurobiological psychology' ('Practicum cognitieve en neurobiologische psychologie') in matlab -->
+
+
+<!-- Undergraduate methodology and statistics -->
+
+<!-- - 2017-2018: 'Applying Research Methods and Statistics' (TOE; practicals) -->
+<!-- - 2018-2019: 'Advanced Research Methods and Statistics' (developing assignments, grading, work groups, practicals; alpo mts3), 'Doing a Qualitative Research Project' (developing assignments, lecturing, work groups, practicals), 'Qualitative Inquiry in Everyday Life' (lecturing, work groups). ‘MET24' (UCU-cursus kwalitatief onderzoek) -->
+<!-- - 2020-2021: het kwalitatieve deel van ‘VOS' -->
+<!-- - 2020-2021: Advanced Research Methods and Statistics (ARMS+SHOP; work groups, grading, test organization) -->
+<!-- - 2021-2022: Advanced Research Methods and Statistics (ARMS+SHOP; work groups, grading, test organization) -->
+<!-- - 2021-2022: Verdieping Onderzoeksmethoden en Statistiek (VOS; work groups, grading) -->
+<!-- - 2021-2022: Basis van Onderzoeksmethoden en Statistiek (BOS; pre-masters; work groups, grading, test organization) -->
+<!-- - 2022-2023: VOS (work groups, grading) -->
+<!-- - 2020-2021 Technieken voor analyse kwalitatieve en kwantitatieve gegevens (practicals) -->
+<!-- - 2021-2022 Technieken voor analyse kwalitatieve en kwantitatieve gegevens (practicals) -->
+<!-- - 2023-2024 VOS wg -->
+
+
+<!-- Graduate methodology and statistics -->
+
+<!-- - 2021-2022: Markup languages and reproducible programming (lecture) -->
+<!-- - 2022-2023: Markup languages and reproducible programming (lecture, grading) -->
+<!-- - 2023-2024: Markup languages and reproducible programming (lectures, grading) -->
+
+
+<!-- Applied data science -->
+
+<!-- - 2020-2021: Applied Data Analysis and Visualization (lecture, work groups, grading) -->
+<!-- - 2020-2021: master thesis ads tinke elviss susan -->
+<!-- - 2021-2022: applied data analysis and visualization (lecture) -->
+<!-- - 2021-2022: master thesis ads thye, ep, boy-->
+<!-- - 2022-2023: applied data analysis and visualization (lecture) -->
+<!-- - 2022-2023: Statistical Programming with R (summer school) (lecture) -->
+<!-- - Research Project GSNS (Masterthesis Applied Data Science) -->
+
+<!-- MDCE -->
+<!-- - 2021-2022: work groups, grading -->
+<!-- - 2022-2023: work groups, grading, test organization -->
+<!-- - 2023-2024: lectures missing data -->
 
 
 <!-- ## Languages -->
@@ -339,6 +416,19 @@ Applied data science
 <!-- ## Software -->
 
 <!-- R, Python, Matlab, LaTeX, git, Rmarkdown, SPSS, JASP, Excel -->
+
+
+## Professional memberships and service
+
+- The Society for the Improvement of Psychological Science [SIPS](https://improvingpsych.org/)
+- Netherlands Society for Statistics and Operations Research [VVSOR](https://www.vvsor.nl/)
+- Interuniversity Graduate School of Psychometrics and Sociometrics [IOPS](https://www.iops.nl/)
+- Open Science Community Utrecht [OSCU](https://openscience-utrecht.com/)
+- [rainbowR](https://rainbowr.netlify.app/)
+- [R contributors](https://contributor.r-project.org/)
+- Peer-review for e.g. [Biomedical Journal](https://onlinelibrary.wiley.com/journal/15214036) and [Statistica Neerlandica](https://onlinelibrary.wiley.com/journal/14679574)
+- [Statistical consulting](https://www.uu.nl/en/organisation/methodology-and-statistics/training-and-support)
+
 
 ## Publications
 
