@@ -9,12 +9,13 @@ number-sections: false
 format: 
   html: 
     page-layout: article
-  pdf:
-    keep_tex: true
-    include-in-header: 
-    - text: \usepackage{fontawesome5}
-    include-before-body: 
-    - file: links.tex
+  # pdf:
+  #   documentclass: report
+  #   keep_tex: true
+  #   include-in-header: 
+  #   - text: \usepackage{fontawesome5}
+  #   include-before-body: 
+  #   - file: links.tex
 theme: 
   - lux
   - lux.scss
