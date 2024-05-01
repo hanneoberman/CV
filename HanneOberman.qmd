@@ -7,6 +7,13 @@ toc: false
 # date-format: short
 date-meta: last-modified
 email-obfuscation: javascript
+format: 
+  html: 
+    page-layout: article
+theme: 
+  - lux
+  - lux.scss
+css: styles.css
 ---
 
 {{< include links.html >}}
