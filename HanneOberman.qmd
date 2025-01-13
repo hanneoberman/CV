@@ -119,15 +119,16 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 ## Ancillary positions
 
-[2024-current]{.aside}
+[2022-current]{.aside}
 
-* **Chair Faculty Open Science Team** [FOST](https://www.uu.nl/en/research/open-science/people/faculty-open-science-team) \| Utrecht University \| Utrecht \| The Netherlands 
+* **Faculty ambassador** [Open Science Community Utrecht](https://openscience-utrecht.com/), chair since 2025 \| Utrecht \| The Netherlands 
+
+<!-- > This is a sentence explaining what OSCU is and what my role is. start date 01-07-2022 -->
 
 [2022-current]{.aside}
 
-* **Faculty ambassador & chair** [Open Science Community Utrecht](https://openscience-utrecht.com/) \| Utrecht \| The Netherlands 
+* **Faculty Open Science Team** [FOST](https://www.uu.nl/en/research/open-science/people/faculty-open-science-team) member, chair since 2024 \| Utrecht University \| Utrecht \| The Netherlands 
 
-<!-- > This is a sentence explaining what OSCU is and what my role is. start date 01-07-2022 -->
 
 [2021, 2023]{.aside}
 
@@ -202,7 +203,28 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 <!-- - referee  -->
 
 
+## Publications
 
+<!-- journal articles, book chapters, under review, working papers, essays and reviews, software packages, other publications -->
+
+<!-- add open science monitor! -->
+
+---
+nocite: |
+  @*
+---
+
+::: {#refs}
+:::
+
+<!-- List pubs here -->
+
+<!-- date: last-modified -->
+<!-- date-format: DD-MM-YYYY -->
+<!-- last-modified: -->
+<!-- title-block-banner-color: white; -->
+
+<br><br>
 
 ## Teaching and supervision
 
@@ -418,26 +440,6 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 * Workshop, 'The interdisciplinary research process in practice', National Interdisciplinary Education (NIE) Conference [NIE](https://nie-conference.nl/), Amsterdam, The Netherlands
 
 
-## Publications
-
-<!-- journal articles, book chapters, under review, working papers, essays and reviews, software packages, other publications -->
-
-<!-- add open science monitor! -->
-
----
-nocite: |
-  @*
----
-
-::: {#refs}
-:::
-
-<!-- List pubs here -->
-
-<!-- date: last-modified -->
-<!-- date-format: DD-MM-YYYY -->
-<!-- last-modified: -->
-<!-- title-block-banner-color: white; -->
 
 ## Grants and awards
 
