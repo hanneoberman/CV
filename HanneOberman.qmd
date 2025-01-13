@@ -2,6 +2,7 @@
 title: Hanne Oberman
 subtitle: Statistician, interdisciplinarian, open scientist
 bibliography: publications.bib
+csl: apa-cv.csl
 toc: false
 # date: last-modified
 # date-format: short
@@ -201,90 +202,6 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 <!-- - referee  -->
 
 
-## Grants and awards
-
-[2023]{.aside}
-
-* Project, 'MICE ONLINE: A new service to solve missing data problems', [Open Science Fund](https://www.uu.nl/onderzoek/open-science/awarded-projects-open-science-fund), Utrecht University, Utrecht, The Netherlands
-
-<!-- This project aims to make the MICE functionality available through a restful API to accommodate a wider user group.  -->
-
-[2022]{.aside}
-
-* Project, '`dessert`: an automated tool for transparent and reproducible scientific reporting', [Open Science Fund](https://www.uu.nl/onderzoek/open-science/awarded-projects-open-science-fund) , Utrecht University, Utrecht, The Netherlands
-
-<!--  The dessert package allows you to automatically generate methodological appendices for your research workflows. -->
-<!-- https://www.gerkovink.com/dessert -->
-
-[2019]{.aside}
-
-* Best poster, 'Will You Publish Null Papers?', Social and Behavioural Sciences Graduate Poster Fair, Utrecht University, Utrecht, The Netherlands
-
-<!-- Social and Behavioural Sciences Graduate Poster Fair. Poster presentation about scientific practices around non-significant results: 'Will You Publish Null Papers?', in collaboration with Jerry Wenzel., Utrecht University, -->
-
-[2018]{.aside}
-
-* Fellowship award, Global Academy of Liberal Arts Annual Conference 'Creativity and the Liberal Arts' (HUMA 887), Concordia University, Montréal, Canada
-
-
-## Conferences
-
-[2024]{.aside}
-
-* Poster, 'Teaching Reproducibility to Research Master's Students', [NLRN](https://reproducibilitynetwork.nl/event/nlrnsymposium2024/), Groningen, The Netherlands
-
-[2024]{.aside}
-
-* Tutorial, 'Missing data exploration, imputation, and evaluation', [useR!](https://events.linuxfoundation.org/user/), Salzburg, Austria
-
-[2024]{.aside}
-
-* Tutorial, 'Open (your) Science Using the Statistical Package `JASP`', [EMLAR](https://emlar.wp.hum.uu.nl/), Utrecht, The Netherlands
-
-[2024]{.aside}
-
-* Presentation, 'Data visualization for incomplete datasets in `R`', Annual Meeting [VVSOR](https://www.vvsor.nl/articles/vvsor-annual-meeting-2024/), Utrecht, The Netherlands
-
-
-[2023]{.aside}
-
-* Presentation, 'Towards a standardized evaluation of imputation methodology: potential pitfalls in simulation studies and a proposed course of action', European Congress of Methodology [EAM](https://eam2023.ugent.be/), Ghent, Belgium
-
-[2023]{.aside}
-
-* Poster presentation, 'Visualization of incomplete and imputed data with the `R` package `ggmice`', Summer Conference  [IOPS](https://www.iops.nl/conferences/), Tilburg, The Netherlands
-
-[2021]{.aside}
-
-* Late-breaking work in progress, 'Visualizing Uncertainty Due to Missing Data', IEEE VIS workshop 'VisComm: Visualization for Communication' [VIS2021](https://ieeevis.org/year/2021/welcome), online
-
-[2021]{.aside}
-  
-* Community led session, 'Pre-registration of Data Science Studies', Open Science Festival [OSF2021NL](https://www.openscience.nl/open-science-festival), online
-
-[2020]{.aside}
-  
-* Presentation, 'Missing the Point: Non-Convergence in Iterative Imputation Algorithms', International Conference on Machine Learning (ICML) workshop 'ARTEMISS: The Art of Learning with Missing Values' [ICML](https://icml.cc/virtual/2020), online
-  
-[2019]{.aside}
-
-* Pre-study poster presentation, 'ShinyMICE: Developing a Missing Data Evaluation Suite (Master's Thesis Methodology and Statistics)', Society for the Improvement of Psychological Science (SIPS) conference   [SIPS2029](https://www.improvingpsych.org/SIPS2019/), Rotterdam, The Netherlands
-  
-[2018]{.aside}
-
-* Showcase, 'Creativity and the Liberal Arts', Global Academy of Liberal Arts (GALA) Annual Conference [GALA](https://gala.network/conference/), Montréal, Canada
-
-[2018]{.aside}
-
-* Invited talk, 'Creating Creativity? Assessing adaptive expertise in Liberal Education students', European Liberal Education Student Conference [LESC](https://3rdlesconference.wordpress.com/), Utrecht, The Netherlands
-  
-[2016]{.aside}
-
-* Poster presentation, 'Assessing Adaptive Expertise in Higher Education Students', Utrecht Platform for Creativity in Education (UPCE) conference [UPCE](https://upce.org/), Utrecht, The Netherlands
-  
-[2016]{.aside}
-  
-* Workshop, 'The interdisciplinary research process in practice', National Interdisciplinary Education (NIE) Conference [NIE](https://nie-conference.nl/), Amsterdam, The Netherlands
 
 
 ## Teaching and supervision
@@ -441,16 +358,64 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 <!-- R, Python, Matlab, LaTeX, git, Rmarkdown, SPSS, JASP, Excel -->
 
 
-## Professional memberships and service
+## Conferences
 
-- The Society for the Improvement of Psychological Science [SIPS](https://improvingpsych.org/)
-- Netherlands Society for Statistics and Operations Research [VVSOR](https://www.vvsor.nl/)
-- Interuniversity Graduate School of Psychometrics and Sociometrics [IOPS](https://www.iops.nl/)
-- Open Science Community Utrecht [OSCU](https://openscience-utrecht.com/)
-- [rainbowR](https://rainbowr.netlify.app/)
-- [R contributors](https://contributor.r-project.org/)
-- Peer-review for e.g. [Biomedical Journal](https://onlinelibrary.wiley.com/journal/15214036) and [Statistica Neerlandica](https://onlinelibrary.wiley.com/journal/14679574)
-- [Statistical consulting](https://www.uu.nl/en/organisation/methodology-and-statistics/training-and-support)
+[2024]{.aside}
+
+* Poster, 'Teaching Reproducibility to Research Master's Students', [NLRN](https://reproducibilitynetwork.nl/event/nlrnsymposium2024/), Groningen, The Netherlands
+
+[2024]{.aside}
+
+* Tutorial, 'Missing data exploration, imputation, and evaluation', [useR!](https://events.linuxfoundation.org/user/), Salzburg, Austria
+
+[2024]{.aside}
+
+* Tutorial, 'Open (your) Science Using the Statistical Package `JASP`', [EMLAR](https://emlar.wp.hum.uu.nl/), Utrecht, The Netherlands
+
+[2024]{.aside}
+
+* Presentation, 'Data visualization for incomplete datasets in `R`', Annual Meeting [VVSOR](https://www.vvsor.nl/articles/vvsor-annual-meeting-2024/), Utrecht, The Netherlands
+
+
+[2023]{.aside}
+
+* Presentation, 'Towards a standardized evaluation of imputation methodology: potential pitfalls in simulation studies and a proposed course of action', European Congress of Methodology [EAM](https://eam2023.ugent.be/), Ghent, Belgium
+
+[2023]{.aside}
+
+* Poster presentation, 'Visualization of incomplete and imputed data with the `R` package `ggmice`', Summer Conference  [IOPS](https://www.iops.nl/conferences/), Tilburg, The Netherlands
+
+[2021]{.aside}
+
+* Late-breaking work in progress, 'Visualizing Uncertainty Due to Missing Data', IEEE VIS workshop 'VisComm: Visualization for Communication' [VIS2021](https://ieeevis.org/year/2021/welcome), online
+
+[2021]{.aside}
+  
+* Community led session, 'Pre-registration of Data Science Studies', Open Science Festival [OSF2021NL](https://www.openscience.nl/open-science-festival), online
+
+[2020]{.aside}
+  
+* Presentation, 'Missing the Point: Non-Convergence in Iterative Imputation Algorithms', International Conference on Machine Learning (ICML) workshop 'ARTEMISS: The Art of Learning with Missing Values' [ICML](https://icml.cc/virtual/2020), online
+  
+[2019]{.aside}
+
+* Pre-study poster presentation, 'ShinyMICE: Developing a Missing Data Evaluation Suite (Master's Thesis Methodology and Statistics)', Society for the Improvement of Psychological Science (SIPS) conference   [SIPS2029](https://www.improvingpsych.org/SIPS2019/), Rotterdam, The Netherlands
+  
+[2018]{.aside}
+
+* Showcase, 'Creativity and the Liberal Arts', Global Academy of Liberal Arts (GALA) Annual Conference [GALA](https://gala.network/conference/), Montréal, Canada
+
+[2018]{.aside}
+
+* Invited talk, 'Creating Creativity? Assessing adaptive expertise in Liberal Education students', European Liberal Education Student Conference [LESC](https://3rdlesconference.wordpress.com/), Utrecht, The Netherlands
+  
+[2016]{.aside}
+
+* Poster presentation, 'Assessing Adaptive Expertise in Higher Education Students', Utrecht Platform for Creativity in Education (UPCE) conference [UPCE](https://upce.org/), Utrecht, The Netherlands
+  
+[2016]{.aside}
+  
+* Workshop, 'The interdisciplinary research process in practice', National Interdisciplinary Education (NIE) Conference [NIE](https://nie-conference.nl/), Amsterdam, The Netherlands
 
 
 ## Publications
@@ -474,3 +439,39 @@ nocite: |
 <!-- last-modified: -->
 <!-- title-block-banner-color: white; -->
 
+## Grants and awards
+
+[2023]{.aside}
+
+* Project, 'MICE ONLINE: A new service to solve missing data problems', [Open Science Fund](https://www.uu.nl/onderzoek/open-science/awarded-projects-open-science-fund), Utrecht University, Utrecht, The Netherlands
+
+<!-- This project aims to make the MICE functionality available through a restful API to accommodate a wider user group.  -->
+
+[2022]{.aside}
+
+* Project, '`dessert`: an automated tool for transparent and reproducible scientific reporting', [Open Science Fund](https://www.uu.nl/onderzoek/open-science/awarded-projects-open-science-fund) , Utrecht University, Utrecht, The Netherlands
+
+<!--  The dessert package allows you to automatically generate methodological appendices for your research workflows. -->
+<!-- https://www.gerkovink.com/dessert -->
+
+[2019]{.aside}
+
+* Best poster, 'Will You Publish Null Papers?', Social and Behavioural Sciences Graduate Poster Fair, Utrecht University, Utrecht, The Netherlands
+
+<!-- Social and Behavioural Sciences Graduate Poster Fair. Poster presentation about scientific practices around non-significant results: 'Will You Publish Null Papers?', in collaboration with Jerry Wenzel., Utrecht University, -->
+
+[2018]{.aside}
+
+* Fellowship award, Global Academy of Liberal Arts Annual Conference 'Creativity and the Liberal Arts' (HUMA 887), Concordia University, Montréal, Canada
+
+
+## Professional memberships and service
+
+- The Society for the Improvement of Psychological Science [SIPS](https://improvingpsych.org/)
+- Netherlands Society for Statistics and Operations Research [VVSOR](https://www.vvsor.nl/)
+- Interuniversity Graduate School of Psychometrics and Sociometrics [IOPS](https://www.iops.nl/)
+- Open Science Community Utrecht [OSCU](https://openscience-utrecht.com/)
+- [rainbowR](https://rainbowr.netlify.app/)
+- [R contributors](https://contributor.r-project.org/)
+- Peer-review for e.g. [Biomedical Journal](https://onlinelibrary.wiley.com/journal/15214036) and [Statistica Neerlandica](https://onlinelibrary.wiley.com/journal/14679574)
+- [Statistical consulting](https://www.uu.nl/en/organisation/methodology-and-statistics/training-and-support)
