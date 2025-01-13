@@ -124,7 +124,7 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 [2022-current]{.aside}
 
-* **Faculty ambassador** [Open Science Community Utrecht](https://openscience-utrecht.com/) \| Utrecht \| The Netherlands 
+* **Faculty ambassador & chair** [Open Science Community Utrecht](https://openscience-utrecht.com/) \| Utrecht \| The Netherlands 
 
 <!-- > This is a sentence explaining what OSCU is and what my role is. start date 01-07-2022 -->
 
@@ -231,6 +231,14 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 [2024]{.aside}
 
+* Poster, 'Teaching Reproducibility to Research Master's Students', [NLRN](https://reproducibilitynetwork.nl/event/nlrnsymposium2024/), Groningen, The Netherlands
+
+[2024]{.aside}
+
+* Tutorial, 'Missing data exploration, imputation, and evaluation', [useR!](https://events.linuxfoundation.org/user/), Salzburg, Austria
+
+[2024]{.aside}
+
 * Tutorial, 'Open (your) Science Using the Statistical Package `JASP`', [EMLAR](https://emlar.wp.hum.uu.nl/), Utrecht, The Netherlands
 
 [2024]{.aside}
@@ -286,7 +294,7 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 [2023-current]{.aside}
 
-* Research Master thesis Methodology and Statistics for the Behavioural, Biomedical and Social Sciences, co-supervision of 1 student (2023-2024)
+* Research Master thesis Methodology and Statistics for the Behavioural, Biomedical and Social Sciences, co-supervision of 1 student (2023-2024, 2024-2025)
 
 [2020-2022]{.aside}
 
@@ -297,10 +305,14 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 [2021-current]{.aside}
 
-* 'Missing Data and Causal Effects' (advanced undergraduate), lectures (2023-2024), work groups and grading (2021-2022, 2022-2023)
+* 'Missing Data and Causal Effects' (advanced undergraduate), lectures (2023-2024, 2024-2025), work groups and grading (2021-2022, 2022-2023, 2024-2025)
 
 
 #### Programming and applied data science
+
+[2024-2025]{.aside}
+
+* 'Data Wrangling and Data Analysis' (academic master), supervising practicals and grading (2024-2025)
 
 [2022-current]{.aside}
 
@@ -308,53 +320,57 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 [2021-current]{.aside}
 
-* 'Markup Languages and Reproducible Programming in Statisitcs' (research master), lectures (2023-2024), guest lecture (2021-2022, 2022-2023), grading (2022-2023, 2023-2024)
+* 'Markup Languages and Reproducible Programming in Statisitcs' (research master), lectures (2023-2024, 2024-2025), guest lecture (2021-2022, 2022-2023), grading (2022-2023, 2023-2024, 2024-2025)
 
 [2020-current]{.aside}
 
-* Applied Data Analysis and Visualization (advanced undergraduate), guest lecture (2020-2021, 2021-2022, 2022-2023, 2023-2024), work groups and grading (2020-2021)
+* Applied Data Analysis and Visualization (advanced undergraduate), guest lecture (2020-2021, 2021-2022, 2022-2023, 2023-2024, 2024-2025), work groups and grading (2020-2021)
 
 [2017-2018]{.aside}
 
-* 'Practicum cognitieve en neurobiologische psychologie' (advanced undergraduate), supervising practicals 
+* 'Practicum cognitieve en neurobiologische psychologie' (advanced undergraduate), supervising practicals (2017-2018)
 
 [2016-2017]{.aside}
 
-* 'Experimenting and registering' (advanced undergraduate), supervising practicals
+* 'Experimenting and registering' (advanced undergraduate), supervising practicals (2016-2017)
 
 
 #### Qualitative research methodology
 
 [2020-2022]{.aside}
 
-* 'Technieken voor analyse kwalitatieve en kwantitatieve gegevens (TAK)' (advanced undergraduate), supervising practicals
+* 'Technieken voor analyse kwalitatieve en kwantitatieve gegevens (TAK)' (advanced undergraduate), supervising practicals (2020-2021, 2021-2022)
 
 [2018-2019]{.aside}
 
-* 'Advanced Research Methods and Statistics' (advanced undergraduate), developing assignments, grading, teaching work groups, supervising practicals 
+* 'Advanced Research Methods and Statistics' (advanced undergraduate), developing assignments, grading, teaching work groups, and supervising practicals (2018-2019)
 
 [2018-2019]{.aside}
 
-* 'Doing a Qualitative Research Project' (advanced undergraduate), developing assignments, lecturing, teaching work groups, supervising practicals
+* 'Doing a Qualitative Research Project' (advanced undergraduate), developing assignments, lecturing, teaching work groups, and supervising practicals (2018-2019)
 
 [2018-2019]{.aside}
 
-* 'Qualitative Inquiry in Everyday Life (MET24)' (advanced undergraduate), teaching work groups, supervising practicals
+* 'Qualitative Inquiry in Everyday Life (MET24)' (advanced undergraduate), teaching work groups and supervising practicals (2018-2019)
 
 
 #### Methodology and statistics
 
+[2024-current]{.aside}
+
+* 'Kennismaking met onderzoeksmethoden en statistiek' (introductory undergraduate), teaching work groups (2024-2025)
+
 [2020-current]{.aside}
 
-* 'Verdieping Onderzoeksmethoden en Statistiek (VOS)' (advanced undergraduate), teaching work groups, and grading (2020-2021, 2022-2023, 2023-2024)
+* 'Verdieping Onderzoeksmethoden en Statistiek' (advanced undergraduate), teaching work groups, and grading (2020-2021, 2022-2023, 2023-2024, 2024-2025)
 
 [2021-2022]{.aside}
 
-* 'Basis van Onderzoeksmethoden en Statistiek' (pre-master), teaching work groups, grading, and test organization
+* 'Basis van Onderzoeksmethoden en Statistiek' (pre-master), teaching work groups, grading, and test organization (2021-2022)
 
 [2021-2022]{.aside}
 
-* 'Bachelorthesis Pedagogische Wetenschappen' (advanced undergraduate), consultancy in methodology & statistics labs
+* 'Bachelorthesis Pedagogische Wetenschappen' (advanced undergraduate), consultancy in methodology & statistics labs (2021-2022)
 
 [2020-2022]{.aside}
 
@@ -362,7 +378,7 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 [2017-2018]{.aside}
 
-* 'Toepassing van onderzoeksmethoden en statistiek (TOE)' (introductory undergraduate)
+* 'Toepassing van onderzoeksmethoden en statistiek' (elaborating undergraduate), practicals (2017-2018)
 
 <!-- - 2020-2021: Advanced Research Methods and Statistics (ARMS+SHOP; work groups, grading, test organization) -->
 
