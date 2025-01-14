@@ -102,15 +102,15 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
   <!-- Global Academy of Liberal Arts interdisciplinary conference and summer school., 2018, Graduate Summer School, Concordia University, Montreal, -->
 
-[2016-2018]{.aside}
+<!-- [2016-2018]{.aside} -->
 
-* Honours degree [Descartes College](https://students.uu.nl/en/academics/honours/programmes/descartes-college) \| Utrecht University \| Utrecht \| The Netherlands
+<!-- * Honours degree [Descartes College](https://students.uu.nl/en/academics/honours/programmes/descartes-college) \| Utrecht University \| Utrecht \| The Netherlands -->
 
   <!-- Interdisciplinary honours program Descartes College., 2016-2018, Honours Degree, Utrecht University, -->
 
 [2014-2018]{.aside}
 
-* BSc [Liberal Arts and Sciences](https://www.uu.nl/bachelors/liberal-arts-and-sciences) \| Utrecht University \| Utrecht \| The Netherlands
+* BSc [Liberal Arts and Sciences](https://www.uu.nl/bachelors/liberal-arts-and-sciences) and honours degree [Descartes College](https://students.uu.nl/en/academics/honours/programmes/descartes-college) \| Utrecht University \| Utrecht \| The Netherlands
 
 <!--   Graduated cum laude. Major in Cognitive Neurobiological Psychology. Minor in Governance for Sustainable Development, and Methods and Statistics in -->
 <!-- the Social and Behavioral Science., 2014-2018, BSc Liberal Arts and Sciences, Utrecht University -->
@@ -469,6 +469,7 @@ nocite: |
 
 ## Professional memberships and service
 
+- Dutch science communication association [SciComNL](https://www.scicom.nl/)
 - The Society for the Improvement of Psychological Science [SIPS](https://improvingpsych.org/)
 - Netherlands Society for Statistics and Operations Research [VVSOR](https://www.vvsor.nl/)
 - Interuniversity Graduate School of Psychometrics and Sociometrics [IOPS](https://www.iops.nl/)
