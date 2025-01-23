@@ -47,9 +47,9 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 ## Experience
 
-[2024-current]{.aside}
+[2024-permanent]{.aside}
 
-* **Junior assistant professor** (PhD candidate and lecturer) [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) \| Utrecht University \| Utrecht \| The Netherlands
+* **(Junior) assistant professor**^[Currently: permanent position as junior assistant professor (combined PhD candidate-lecturer role); after completion of PhD: permanent position as assistant professor] [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) \| Utrecht University \| Utrecht \| The Netherlands
 
 <!-- ::: {.callout-note collapse="true"} -->
 <!-- ## Tasks -->
@@ -59,9 +59,13 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 <!-- start date 01-05-2024 -->
 
-[2023-2024]{.aside}
+[2023-current]{.aside}
 
 * PhD candidate [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) \| Utrecht University \| Utrecht \| The Netherlands
+
+<!-- [2023-2024]{.aside} -->
+
+<!-- * PhD candidate [Methodology and Statistics](https://www.uu.nl/en/organisation/methodology-and-statistics) \| Utrecht University \| Utrecht \| The Netherlands -->
 
 <!-- My aim is to develop interactive evaluation tools for incomplete data. Multiple imputation (Rubin, 1976) is a state-of-the-art technique for drawing valid conclusions from incomplete data, and is increasingly used in incomplete data analysis in many substantive fields. The R package mice (van Buuren & Groothuis-Oudshoorn, 2011) has become the de facto standard for the statistical analysis of incomplete data.  -->
 <!-- With this project, we will connect applied researchers to statisticians by forming a bridge between the computational elements in computer science, data visualization, and inferential statistics. We do so by extending and improving the iterative multiple imputation framework such that applied researchers and advanced users can utilize it and can interpret its validity.  -->
@@ -203,6 +207,44 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 <!-- - referee  -->
 
 
+## Grants and awards
+
+[2023]{.aside}
+
+* Project, 'MICE ONLINE: A new service to solve missing data problems', [Open Science Fund](https://www.uu.nl/onderzoek/open-science/awarded-projects-open-science-fund), Utrecht University, Utrecht, The Netherlands
+
+<!-- This project aims to make the MICE functionality available through a restful API to accommodate a wider user group.  -->
+
+[2022]{.aside}
+
+* Project, '`dessert`: an automated tool for transparent and reproducible scientific reporting', [Open Science Fund](https://www.uu.nl/onderzoek/open-science/awarded-projects-open-science-fund) , Utrecht University, Utrecht, The Netherlands
+
+<!--  The dessert package allows you to automatically generate methodological appendices for your research workflows. -->
+<!-- https://www.gerkovink.com/dessert -->
+
+[2019]{.aside}
+
+* Best poster, 'Will You Publish Null Papers?', Social and Behavioural Sciences Graduate Poster Fair, Utrecht University, Utrecht, The Netherlands
+
+<!-- Social and Behavioural Sciences Graduate Poster Fair. Poster presentation about scientific practices around non-significant results: 'Will You Publish Null Papers?', in collaboration with Jerry Wenzel., Utrecht University, -->
+
+[2018]{.aside}
+
+* Fellowship award, Global Academy of Liberal Arts Annual Conference 'Creativity and the Liberal Arts' (HUMA 887), Concordia University, Montréal, Canada
+
+## Professional memberships and service
+
+- Dutch science communication association [SciComNL](https://www.scicom.nl/)
+- The Society for the Improvement of Psychological Science [SIPS](https://improvingpsych.org/)
+- Netherlands Society for Statistics and Operations Research [VVSOR](https://www.vvsor.nl/)
+- Interuniversity Graduate School of Psychometrics and Sociometrics [IOPS](https://www.iops.nl/)
+- Open Science Community Utrecht [OSCU](https://openscience-utrecht.com/)
+- [rainbowR](https://rainbowr.netlify.app/)
+- [R contributors](https://contributor.r-project.org/)
+- Peer-review for e.g. [Biomedical Journal](https://onlinelibrary.wiley.com/journal/15214036) and [Statistica Neerlandica](https://onlinelibrary.wiley.com/journal/14679574)
+- [Statistical consulting](https://www.uu.nl/en/organisation/methodology-and-statistics/training-and-support)
+
+
 ## Publications
 
 <!-- journal articles, book chapters, under review, working papers, essays and reviews, software packages, other publications -->
@@ -228,6 +270,7 @@ nocite: |
 
 ## Teaching and supervision
 
+I am passionate about teaching and in the process of obtaining a university teaching qualification ('BKO'). I enjoy teaching a wide range of topics, from introductory statistics to advanced data science, and from qualitative research methodology to missing data methodology.
 
 #### Thesis supervision
 
@@ -382,6 +425,9 @@ nocite: |
 
 ## Conferences
 
+<!-- I have presented at 14 conferences thus far (including poster presentations). My most impactful conference output has been the recording of a tutorial I gave at the [useR! 2024 conference](https://youtu.be/MTHgZNB5Wxw) on missing data exploration, imputation, and evaluation. My favorite event that I co-organized was a symposium about open science and qualitative research for the [Open Science Community Utrecht](https://openscience-utrecht.com/events/qualitative-research/), even though I did not present anything myself. -->
+
+
 [2024]{.aside}
 
 * Poster, 'Teaching Reproducibility to Research Master's Students', [NLRN](https://reproducibilitynetwork.nl/event/nlrnsymposium2024/), Groningen, The Netherlands
@@ -441,40 +487,3 @@ nocite: |
 
 
 
-## Grants and awards
-
-[2023]{.aside}
-
-* Project, 'MICE ONLINE: A new service to solve missing data problems', [Open Science Fund](https://www.uu.nl/onderzoek/open-science/awarded-projects-open-science-fund), Utrecht University, Utrecht, The Netherlands
-
-<!-- This project aims to make the MICE functionality available through a restful API to accommodate a wider user group.  -->
-
-[2022]{.aside}
-
-* Project, '`dessert`: an automated tool for transparent and reproducible scientific reporting', [Open Science Fund](https://www.uu.nl/onderzoek/open-science/awarded-projects-open-science-fund) , Utrecht University, Utrecht, The Netherlands
-
-<!--  The dessert package allows you to automatically generate methodological appendices for your research workflows. -->
-<!-- https://www.gerkovink.com/dessert -->
-
-[2019]{.aside}
-
-* Best poster, 'Will You Publish Null Papers?', Social and Behavioural Sciences Graduate Poster Fair, Utrecht University, Utrecht, The Netherlands
-
-<!-- Social and Behavioural Sciences Graduate Poster Fair. Poster presentation about scientific practices around non-significant results: 'Will You Publish Null Papers?', in collaboration with Jerry Wenzel., Utrecht University, -->
-
-[2018]{.aside}
-
-* Fellowship award, Global Academy of Liberal Arts Annual Conference 'Creativity and the Liberal Arts' (HUMA 887), Concordia University, Montréal, Canada
-
-
-## Professional memberships and service
-
-- Dutch science communication association [SciComNL](https://www.scicom.nl/)
-- The Society for the Improvement of Psychological Science [SIPS](https://improvingpsych.org/)
-- Netherlands Society for Statistics and Operations Research [VVSOR](https://www.vvsor.nl/)
-- Interuniversity Graduate School of Psychometrics and Sociometrics [IOPS](https://www.iops.nl/)
-- Open Science Community Utrecht [OSCU](https://openscience-utrecht.com/)
-- [rainbowR](https://rainbowr.netlify.app/)
-- [R contributors](https://contributor.r-project.org/)
-- Peer-review for e.g. [Biomedical Journal](https://onlinelibrary.wiley.com/journal/15214036) and [Statistica Neerlandica](https://onlinelibrary.wiley.com/journal/14679574)
-- [Statistical consulting](https://www.uu.nl/en/organisation/methodology-and-statistics/training-and-support)
