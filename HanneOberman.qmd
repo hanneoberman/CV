@@ -2,6 +2,7 @@
 title: Hanne Oberman
 subtitle: Statistician, interdisciplinarian, open scientist
 bibliography: publications.bib
+citeproc: true
 csl: apa-cv.csl
 toc: false
 # date: last-modified
@@ -239,7 +240,7 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 - Netherlands Society for Statistics and Operations Research [VVSOR](https://www.vvsor.nl/)
 - Interuniversity Graduate School of Psychometrics and Sociometrics [IOPS](https://www.iops.nl/)
 - Open Science Community Utrecht [OSCU](https://openscience-utrecht.com/)
-- [rainbowR](https://rainbowr.netlify.app/)
+- [rainbowR](https://rainbowr.org/)
 - [R contributors](https://contributor.r-project.org/)
 - Peer-review for e.g. [Biomedical Journal](https://onlinelibrary.wiley.com/journal/15214036) and [Statistica Neerlandica](https://onlinelibrary.wiley.com/journal/14679574)
 - [Statistical consulting](https://www.uu.nl/en/organisation/methodology-and-statistics/training-and-support)
