@@ -18,6 +18,8 @@ theme:
 css: styles.css
 ---
 
+<!-- TODO: add USO/FUSO -->
+
 {{< include links.html >}}
 
 <!-- Last modified: {{< meta date >}} -->
@@ -233,6 +235,7 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 * Fellowship award, Global Academy of Liberal Arts Annual Conference 'Creativity and the Liberal Arts' (HUMA 887), Concordia University, Montréal, Canada
 
+
 ## Professional memberships and service
 
 - Dutch science communication association [SciComNL](https://www.scicom.nl/)
@@ -245,29 +248,6 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 - Peer-review for e.g. [Biomedical Journal](https://onlinelibrary.wiley.com/journal/15214036) and [Statistica Neerlandica](https://onlinelibrary.wiley.com/journal/14679574)
 - [Statistical consulting](https://www.uu.nl/en/organisation/methodology-and-statistics/training-and-support)
 
-
-## Publications
-
-<!-- journal articles, book chapters, under review, working papers, essays and reviews, software packages, other publications -->
-
-<!-- add open science monitor! -->
-
----
-nocite: |
-  @*
----
-
-::: {#refs}
-:::
-
-<!-- List pubs here -->
-
-<!-- date: last-modified -->
-<!-- date-format: DD-MM-YYYY -->
-<!-- last-modified: -->
-<!-- title-block-banner-color: white; -->
-
-<br><br>
 
 ## Teaching and supervision
 
@@ -299,7 +279,7 @@ I am passionate about teaching and in the process of obtaining a university teac
 
 [2022-current]{.aside}
 
-* 'Statistical Programming with R' (summer school), guest lecture (2022-2023, 2023-2024)
+* 'Statistical Programming with R' (post-graduate), guest lecture (2022-2023, 2023-2024)
 
 [2021-current]{.aside}
 
@@ -307,7 +287,7 @@ I am passionate about teaching and in the process of obtaining a university teac
 
 [2020-current]{.aside}
 
-* Applied Data Analysis and Visualization (advanced undergraduate), guest lecture (2020-2021, 2021-2022, 2022-2023, 2023-2024, 2024-2025), work groups and grading (2020-2021)
+* 'Applied Data Analysis and Visualization' (advanced undergraduate), guest lecture (2020-2021, 2021-2022, 2022-2023, 2023-2024, 2024-2025), work groups and grading (2020-2021)
 
 [2017-2018]{.aside}
 
@@ -362,6 +342,30 @@ I am passionate about teaching and in the process of obtaining a university teac
 [2017-2018]{.aside}
 
 * 'Toepassing van onderzoeksmethoden en statistiek' (elaborating undergraduate), practicals (2017-2018)
+
+
+## Publications
+
+<!-- journal articles, book chapters, under review, working papers, essays and reviews, software packages, other publications -->
+
+<!-- add open science monitor! -->
+
+---
+nocite: |
+  @*
+---
+
+::: {#refs}
+:::
+
+<!-- List pubs here -->
+
+<!-- date: last-modified -->
+<!-- date-format: DD-MM-YYYY -->
+<!-- last-modified: -->
+<!-- title-block-banner-color: white; -->
+
+<br><br>
 
 <!-- - 2020-2021: Advanced Research Methods and Statistics (ARMS+SHOP; work groups, grading, test organization) -->
 
