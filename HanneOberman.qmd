@@ -132,9 +132,9 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 <!-- > This is a sentence explaining what OSCU is and what my role is. start date 01-07-2022 -->
 
-[2022-current]{.aside}
+[2022-2025]{.aside}
 
-* **Faculty Open Science Team** [FOST](https://www.uu.nl/en/research/open-science/people/faculty-open-science-team) member, chair since 2024 \| Utrecht University \| Utrecht \| The Netherlands 
+* **Faculty Open Science Team** [FOST](https://www.uu.nl/en/research/open-science/people/faculty-open-science-team) member, chair in 2024-2025 \| Utrecht University \| Utrecht \| The Netherlands 
 
 
 [2021, 2023]{.aside}
@@ -251,13 +251,13 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 ## Teaching and supervision
 
-I am passionate about teaching and in the process of obtaining a university teaching qualification ('BKO'). I enjoy teaching a wide range of topics, from introductory statistics to advanced data science, and from qualitative research methodology to missing data methodology.
+I am very passionate about teaching, and have obtained a university teaching qualification ('BKO'). I enjoy teaching a wide range of topics, from introductory statistics to advanced data science, and from qualitative research methodology to missing data methodology.
 
 #### Thesis supervision
 
 [2023-current]{.aside}
 
-* Research Master thesis Methodology and Statistics for the Behavioural, Biomedical and Social Sciences, co-supervision of 1 student (2023-2024, 2024-2025)
+* Research Master thesis Methodology and Statistics for the Behavioural, Biomedical and Social Sciences, co-supervision of 1 student (2023-2024, 2024-2025, 2025-2026)
 
 [2020-2022]{.aside}
 
@@ -268,7 +268,7 @@ I am passionate about teaching and in the process of obtaining a university teac
 
 [2021-current]{.aside}
 
-* 'Missing Data and Causal Effects' (advanced undergraduate), lectures (2023-2024, 2024-2025), work groups and grading (2021-2022, 2022-2023, 2024-2025)
+* 'Missing Data and Causal Effects' (advanced undergraduate), lectures (2023-2024, 2024-2025, 2025-2026), work groups (2021-2022, 2022-2023, 2024-2025), grading (2021-2022, 2022-2023, 2024-2025, 2025-2026)
 
 
 #### Programming and applied data science
@@ -283,11 +283,11 @@ I am passionate about teaching and in the process of obtaining a university teac
 
 [2021-current]{.aside}
 
-* 'Markup Languages and Reproducible Programming in Statisitcs' (research master), lectures (2023-2024, 2024-2025), guest lecture (2021-2022, 2022-2023), grading (2022-2023, 2023-2024, 2024-2025)
+* 'Markup Languages and Reproducible Programming in Statisitcs' (research master), lectures (2023-2024, 2024-2025, 2025-2026), guest lecture (2021-2022, 2022-2023), grading (2022-2023, 2023-2024, 2024-2025, 2025-2026)
 
 [2020-current]{.aside}
 
-* 'Applied Data Analysis and Visualization' (advanced undergraduate), guest lecture (2020-2021, 2021-2022, 2022-2023, 2023-2024, 2024-2025), work groups and grading (2020-2021)
+* 'Applied Data Analysis and Visualization' (advanced undergraduate), guest lecture (2020-2021, 2021-2022, 2022-2023, 2023-2024, 2024-2025, 2025-2026), work groups and grading (2020-2021)
 
 [2017-2018]{.aside}
 
@@ -321,7 +321,7 @@ I am passionate about teaching and in the process of obtaining a university teac
 
 [2024-current]{.aside}
 
-* 'Kennismaking met onderzoeksmethoden en statistiek' (introductory undergraduate), teaching work groups (2024-2025)
+* 'Kennismaking met onderzoeksmethoden en statistiek' (introductory undergraduate), teaching work groups (2024-2025, 2025-2026)
 
 [2020-current]{.aside}
 
