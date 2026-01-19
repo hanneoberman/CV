@@ -1,9 +1,13 @@
 ---
 title: Hanne Oberman
 subtitle: Statistician, interdisciplinarian, open scientist
+author: 
+    - name: "Hanne Oberman"
+      email: h.i.oberman@uu.nl
+      orcid: 0000-0003-3276-2141
 bibliography: publications.bib
 citeproc: true
-csl: apa-cv.csl
+csl: utils/apa-cv.csl
 toc: false
 # date: last-modified
 # date-format: short
@@ -14,13 +18,14 @@ format:
     page-layout: article
 theme: 
   - lux
-  - lux.scss
-css: styles.css
+  - utils/lux.scss
+css: utils/styles.css
+author-display: ""
 ---
 
 <!-- TODO: add USO/FUSO -->
 
-{{< include links.html >}}
+{{< include utils/links.html >}}
 
 <!-- Last modified: {{< meta date >}} -->
 
@@ -87,7 +92,7 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 <!-- start date 01-06-2020 -->
 
----
+
 
 ## Education
 
@@ -107,6 +112,10 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 
 * Post-graduate education [International Graduate Summer School of the Global Academy of Liberal Arts](https://www.concordia.ca/summer/artsci/Previous-Summer-Schools/2018/GALA2018.html) \| Concordia University \| Montréal \| Canada
 
+[2014-2018]{.aside}
+
+* BSc [Liberal Arts and Sciences](https://www.uu.nl/bachelors/liberal-arts-and-sciences) and honours degree [Descartes College](https://students.uu.nl/en/academics/honours/programmes/descartes-college) \| Utrecht University \| Utrecht \| The Netherlands
+
   <!-- Global Academy of Liberal Arts interdisciplinary conference and summer school., 2018, Graduate Summer School, Concordia University, Montreal, -->
 
 <!-- [2016-2018]{.aside} -->
@@ -114,15 +123,10 @@ I am very passionate about 'dull' or 'difficult' topics such as statistics, prog
 <!-- * Honours degree [Descartes College](https://students.uu.nl/en/academics/honours/programmes/descartes-college) \| Utrecht University \| Utrecht \| The Netherlands -->
 
   <!-- Interdisciplinary honours program Descartes College., 2016-2018, Honours Degree, Utrecht University, -->
-
-[2014-2018]{.aside}
-
-* BSc [Liberal Arts and Sciences](https://www.uu.nl/bachelors/liberal-arts-and-sciences) and honours degree [Descartes College](https://students.uu.nl/en/academics/honours/programmes/descartes-college) \| Utrecht University \| Utrecht \| The Netherlands
-
+  
 <!--   Graduated cum laude. Major in Cognitive Neurobiological Psychology. Minor in Governance for Sustainable Development, and Methods and Statistics in -->
 <!-- the Social and Behavioral Science., 2014-2018, BSc Liberal Arts and Sciences, Utrecht University -->
 
----
 
 ## Ancillary positions
 
@@ -430,7 +434,7 @@ nocite: |
 
 ## Conferences
 
-<!-- I have presented at 14 conferences thus far (including poster presentations). My most impactful conference output has been the recording of a tutorial I gave at the [useR! 2024 conference](https://youtu.be/MTHgZNB5Wxw) on missing data exploration, imputation, and evaluation. My favorite event that I co-organized was a symposium about open science and qualitative research for the [Open Science Community Utrecht](https://openscience-utrecht.com/events/qualitative-research/), even though I did not present anything myself. -->
+<!-- TODO: make SHORT version with "I have presented at 14 conferences thus far (including poster presentations). My most impactful conference output has been the recording of a tutorial I gave at the [useR! 2024 conference](https://youtu.be/MTHgZNB5Wxw) on missing data exploration, imputation, and evaluation. My favorite event that I co-organized was a symposium about open science and qualitative research for the [Open Science Community Utrecht](https://openscience-utrecht.com/events/qualitative-research/), even though I did not present anything myself." -->
 
 
 [2024]{.aside}
